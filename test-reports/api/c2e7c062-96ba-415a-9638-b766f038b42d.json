@@ -1,0 +1,19 @@
+{
+  "Data" : [ {
+    "MaintainASNSupply" : "false",
+    "MaintainOHByBatchNumber" : false,
+    "LocationId" : "STR1-11668",
+    "MaintainOHSupply" : "true",
+    "MaintainOHByDisposition" : "false",
+    "MaintainOHByCountryOfOrigin" : false,
+    "MaintainOHByInventoryType" : false,
+    "MaintainBySegment" : false,
+    "MaintainOHByProductStatus" : false,
+    "MaintainOHByInventoryAttri5" : false,
+    "MaintainOHByInventoryAttri4" : false,
+    "MaintainOHByInventoryAttri3" : false,
+    "MaintainOHByInventoryAttri2" : false,
+    "MaintainOHByInventoryAttri1" : false,
+    "MaintainPOSupply" : "false"
+  } ]
+}

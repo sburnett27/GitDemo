@@ -1,0 +1,147 @@
+{
+  "success" : true,
+  "header" : null,
+  "data" : {
+    "Messages" : {
+      "Message" : [ ],
+      "Size" : 0
+    },
+    "CreatedTimestamp" : "2021-01-18T15:02:17.197",
+    "Address" : {
+      "FirstName" : "Manhattan Associates",
+      "LastName" : "Inc",
+      "Address1" : "2300",
+      "Address2" : "Windy Ridge Parkway",
+      "Address3" : "10th Floor",
+      "City" : "Atlanta",
+      "State" : "Georgia",
+      "PostalCode" : "30339",
+      "County" : null,
+      "Country" : "US",
+      "Phone" : null,
+      "Email" : "supplychainadmin@manh.com"
+    },
+    "IsActive" : true,
+    "OrgUser" : [ ],
+    "Process" : null,
+    "Gender" : null,
+    "StartDate" : null,
+    "UpdatedBy" : "systemadmin@system.com",
+    "UserTimeZone" : "US/Eastern",
+    "UserLocation" : [ ],
+    "UserPin" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-18T15:02:17.197",
+      "User" : null,
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-18T15:02:17.197",
+      "UserId" : "admin@fb-us-s",
+      "ContextId" : "a1b3b484-9106-48aa-be8e-196f1b007b73",
+      "Process" : null,
+      "PK" : "6109821371975374286",
+      "Unique_Identifier" : "6109821371975374286__admin@fb-us-s"
+    } ],
+    "Email2" : null,
+    "UserLocale" : {
+      "LocaleId" : "en"
+    },
+    "PasswordExpiry" : null,
+    "DateOfBirth" : null,
+    "UserLoginHistory" : [ ],
+    "IdentityType" : {
+      "IdentityTypeId" : "Database"
+    },
+    "UpdatedTimestamp" : "2021-01-18T15:02:17.197",
+    "PrimaryOrgId" : "FB-US-S",
+    "CreatedBy" : "systemadmin@system.com",
+    "UserBusinessUnit" : [ ],
+    "MustClock" : false,
+    "FirstName" : null,
+    "ImageUrl" : null,
+    "EndDate" : null,
+    "UserDefaults" : [ ],
+    "UserId" : "admin@fb-us-s",
+    "ContextId" : "a1b3b484-9106-48aa-be8e-196f1b007b73",
+    "LastName" : null,
+    "PK" : "6109821371975368392",
+    "UserType" : {
+      "UserTypeId" : "Human"
+    },
+    "HasAccessToAllBUs" : false,
+    "AvailableUserLocales" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-18T15:02:17.289",
+      "LocaleId" : {
+        "LocaleId" : "de"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-18T15:02:17.289",
+      "ContextId" : "a1b3b484-9106-48aa-be8e-196f1b007b73",
+      "ParentUser" : {
+        "PK" : 6109821371975368392
+      },
+      "Process" : null,
+      "PK" : "6109821372895387659",
+      "Unique_Identifier" : "6109821372895387659"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-18T15:02:17.289",
+      "LocaleId" : {
+        "LocaleId" : "es"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-18T15:02:17.289",
+      "ContextId" : "a1b3b484-9106-48aa-be8e-196f1b007b73",
+      "ParentUser" : {
+        "PK" : 6109821371975368392
+      },
+      "Process" : null,
+      "PK" : "6109821372895393895",
+      "Unique_Identifier" : "6109821372895393895"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-18T15:02:17.289",
+      "LocaleId" : {
+        "LocaleId" : "fr"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-18T15:02:17.289",
+      "ContextId" : "a1b3b484-9106-48aa-be8e-196f1b007b73",
+      "ParentUser" : {
+        "PK" : 6109821371975368392
+      },
+      "Process" : null,
+      "PK" : "6109821372895405535",
+      "Unique_Identifier" : "6109821372895405535"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-18T15:02:17.29",
+      "LocaleId" : {
+        "LocaleId" : "zh"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-18T15:02:17.29",
+      "ContextId" : "a1b3b484-9106-48aa-be8e-196f1b007b73",
+      "ParentUser" : {
+        "PK" : 6109821371975368392
+      },
+      "Process" : null,
+      "PK" : "6109821372895411872",
+      "Unique_Identifier" : "6109821372895411872"
+    } ],
+    "Unique_Identifier" : "6109821371975368392__admin@fb-us-s"
+  },
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-organization:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "c47799045674",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

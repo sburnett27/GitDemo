@@ -1,0 +1,57 @@
+{
+  "IdentityType" : "database",
+  "PrimaryOrgId" : "FB-CANADA-S",
+  "UserTimeZone" : "US/Eastern",
+  "UserName" : "u4@FB-CANADA-S",
+  "Address" : {
+    "Email" : "supplychainadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "Georgia",
+    "Address2" : "Windy Ridge Parkway",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300",
+    "City" : "Atlanta"
+  },
+  "UserLocation" : [ {
+    "User" : {
+      "Criteria" : "UserId == 'u4@FB-CANADA-S'"
+    },
+    "LocationId" : "STR6-FB-BRAND1-CANADA-S"
+  }, {
+    "User" : {
+      "Criteria" : "UserId == 'u4@FB-CANADA-S'"
+    },
+    "LocationId" : "STR7-FB-BRAND2-CANADA-S"
+  } ],
+  "IsActive" : "true",
+  "UserId" : "u4@FB-CANADA-S",
+  "UserPin" : [ {
+    "Pin" : "Password!123"
+  } ],
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "AvailableUserLocales" : [ {
+    "LocaleId" : {
+      "LocaleId" : "de"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "es"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    }
+  } ]
+}

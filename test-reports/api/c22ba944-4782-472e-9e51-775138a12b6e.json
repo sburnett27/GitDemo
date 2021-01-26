@@ -1,0 +1,99 @@
+{
+  "Data" : [ {
+    "RoleName" : "Five-Below-S-AdminRole-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Admin-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-Pickup-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Pickup-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-Stage-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Stage-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-Shipment-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Shipment-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-ReceivingInventory-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-RCVMgr-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-ManagerDashboard-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ManagerDashboard-Five-Below-S"
+  }, {
+    "RoleName" : "Five-Below-S-TaskMonitoring-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "TaskMonitoring-Five-Below-S"
+  }, {
+    "RoleName" : "FB-BRAND1-CANADA-S-Sort-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Sort-FB-BRAND1-CANADA-S"
+  }, {
+    "RoleName" : "FB-US-S-RTS-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "FB-US-S",
+    "RoleId" : "RTS-FB-US-S"
+  }, {
+    "RoleName" : "FB-BRAND2-US-S-MDPickup-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "MDPickup-FB-BRAND2-US-S"
+  }, {
+    "RoleName" : "FB-BRAND2-CANADA-S-MDShipment-Test",
+    "IsActive" : true,
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined"
+    },
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "MDShipment-FB-BRAND2-CANADA-S"
+  } ]
+}

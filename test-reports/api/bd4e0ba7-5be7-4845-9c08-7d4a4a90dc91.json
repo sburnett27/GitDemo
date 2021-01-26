@@ -1,0 +1,10 @@
+{
+  "ItemCode" : [ {
+    "Type" : "Primary_UPC",
+    "CodeTypeId" : {
+      "CodeTypeId" : "Primary_UPC"
+    },
+    "Value" : "11111111004"
+  } ],
+  "ItemId" : "AHPMB"
+}

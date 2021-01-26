@@ -1,0 +1,130 @@
+{
+  "CreatedTimestamp" : "2021-01-15T15:12:08.309",
+  "Address" : {
+    "Email" : "orgadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "GA",
+    "Phone" : "(770) 955-7070",
+    "Address2" : "10th Floor",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300 Windy Ridge Pkwy",
+    "City" : "Atlanta",
+    "County" : null
+  },
+  "IsActive" : true,
+  "OrgUser" : [ ],
+  "Process" : null,
+  "Gender" : "Male",
+  "StartDate" : null,
+  "UpdatedBy" : "systemadmin@system.com",
+  "UserTimeZone" : "US/Eastern",
+  "UserLocation" : [ ],
+  "UserPin" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:12:08.31",
+    "User" : null,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:12:08.31",
+    "UserId" : "strassociate277262@kering12-b1-it.com",
+    "ContextId" : "e2dbad30-07bf-408a-9eac-56ff8ba78d11",
+    "Process" : null,
+    "PK" : "6107235283103348106",
+    "Unique_Identifier" : "6107235283103348106__strassociate277262@kering12-b1-it.com"
+  } ],
+  "Email2" : "mg@gmail.com",
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "PasswordExpiry" : null,
+  "DateOfBirth" : "1980-06-10",
+  "UserLoginHistory" : [ ],
+  "IdentityType" : {
+    "IdentityTypeId" : "Database"
+  },
+  "UpdatedTimestamp" : "2021-01-15T15:12:08.309",
+  "PrimaryOrgId" : "Kering12-B1-IT",
+  "Messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "CreatedBy" : "systemadmin@system.com",
+  "UserBusinessUnit" : [ ],
+  "MustClock" : false,
+  "FirstName" : null,
+  "ImageUrl" : null,
+  "EndDate" : null,
+  "UserDefaults" : [ ],
+  "UserId" : "strassociate277262@kering12-b1-it.com",
+  "ContextId" : "e2dbad30-07bf-408a-9eac-56ff8ba78d11",
+  "LastName" : null,
+  "PK" : "6107235283093336479",
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "HasAccessToAllBUs" : false,
+  "AvailableUserLocales" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:12:08.416",
+    "LocaleId" : {
+      "LocaleId" : "de"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:12:08.416",
+    "ContextId" : "e2dbad30-07bf-408a-9eac-56ff8ba78d11",
+    "ParentUser" : {
+      "PK" : 6107235283093336479
+    },
+    "Process" : null,
+    "PK" : "6107235284163351814",
+    "Unique_Identifier" : "6107235284163351814"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:12:08.416",
+    "LocaleId" : {
+      "LocaleId" : "es"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:12:08.416",
+    "ContextId" : "e2dbad30-07bf-408a-9eac-56ff8ba78d11",
+    "ParentUser" : {
+      "PK" : 6107235283093336479
+    },
+    "Process" : null,
+    "PK" : "6107235284163367980",
+    "Unique_Identifier" : "6107235284163367980"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:12:08.417",
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:12:08.417",
+    "ContextId" : "e2dbad30-07bf-408a-9eac-56ff8ba78d11",
+    "ParentUser" : {
+      "PK" : 6107235283093336479
+    },
+    "Process" : null,
+    "PK" : "6107235284173378849",
+    "Unique_Identifier" : "6107235284173378849"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:12:08.417",
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:12:08.417",
+    "ContextId" : "e2dbad30-07bf-408a-9eac-56ff8ba78d11",
+    "ParentUser" : {
+      "PK" : 6107235283093336479
+    },
+    "Process" : null,
+    "PK" : "6107235284173388925",
+    "Unique_Identifier" : "6107235284173388925"
+  } ],
+  "Unique_Identifier" : "6107235283093336479__strassociate277262@kering12-b1-it.com"
+}

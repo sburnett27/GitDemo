@@ -1,0 +1,147 @@
+{
+  "success" : true,
+  "header" : null,
+  "data" : {
+    "Messages" : {
+      "Message" : [ ],
+      "Size" : 0
+    },
+    "CreatedTimestamp" : "2021-01-22T20:16:42.827",
+    "Address" : {
+      "FirstName" : "Manhattan Associates",
+      "LastName" : "Inc",
+      "Address1" : "2300 Windy Ridge Pkwy",
+      "Address2" : "10th Floor",
+      "Address3" : "10th Floor",
+      "City" : "Atlanta",
+      "State" : "GA",
+      "PostalCode" : "30339",
+      "County" : null,
+      "Country" : "US",
+      "Phone" : "(770) 955-7070",
+      "Email" : "orgadmin@manh.com"
+    },
+    "IsActive" : true,
+    "OrgUser" : [ ],
+    "Process" : null,
+    "Gender" : "Male",
+    "StartDate" : null,
+    "UpdatedBy" : "systemadmin@system.com",
+    "UserTimeZone" : "US/Eastern",
+    "UserLocation" : [ ],
+    "UserPin" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-22T20:16:42.827",
+      "User" : null,
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-22T20:16:42.827",
+      "UserId" : "strassociate211668@kering12-b1-it.com",
+      "ContextId" : "bb924128-1abf-4712-acd6-29fa5b2b2f0e",
+      "Process" : null,
+      "PK" : "6113466028273182318",
+      "Unique_Identifier" : "6113466028273182318__strassociate211668@kering12-b1-it.com"
+    } ],
+    "Email2" : "mg@gmail.com",
+    "UserLocale" : {
+      "LocaleId" : "en"
+    },
+    "PasswordExpiry" : null,
+    "DateOfBirth" : "1980-06-10",
+    "UserLoginHistory" : [ ],
+    "IdentityType" : {
+      "IdentityTypeId" : "Database"
+    },
+    "UpdatedTimestamp" : "2021-01-22T20:16:42.827",
+    "PrimaryOrgId" : "Kering12-B1-IT",
+    "CreatedBy" : "systemadmin@system.com",
+    "UserBusinessUnit" : [ ],
+    "MustClock" : false,
+    "FirstName" : null,
+    "ImageUrl" : null,
+    "EndDate" : null,
+    "UserDefaults" : [ ],
+    "UserId" : "strassociate211668@kering12-b1-it.com",
+    "ContextId" : "bb924128-1abf-4712-acd6-29fa5b2b2f0e",
+    "LastName" : null,
+    "PK" : "6113466028273171842",
+    "UserType" : {
+      "UserTypeId" : "Human"
+    },
+    "HasAccessToAllBUs" : false,
+    "AvailableUserLocales" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-22T20:16:42.92",
+      "LocaleId" : {
+        "LocaleId" : "de"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-22T20:16:42.92",
+      "ContextId" : "bb924128-1abf-4712-acd6-29fa5b2b2f0e",
+      "ParentUser" : {
+        "PK" : 6113466028273171842
+      },
+      "Process" : null,
+      "PK" : "6113466029203194444",
+      "Unique_Identifier" : "6113466029203194444"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-22T20:16:42.921",
+      "LocaleId" : {
+        "LocaleId" : "es"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-22T20:16:42.921",
+      "ContextId" : "bb924128-1abf-4712-acd6-29fa5b2b2f0e",
+      "ParentUser" : {
+        "PK" : 6113466028273171842
+      },
+      "Process" : null,
+      "PK" : "6113466029213205892",
+      "Unique_Identifier" : "6113466029213205892"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-22T20:16:42.921",
+      "LocaleId" : {
+        "LocaleId" : "fr"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-22T20:16:42.921",
+      "ContextId" : "bb924128-1abf-4712-acd6-29fa5b2b2f0e",
+      "ParentUser" : {
+        "PK" : 6113466028273171842
+      },
+      "Process" : null,
+      "PK" : "6113466029213214230",
+      "Unique_Identifier" : "6113466029213214230"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-22T20:16:42.921",
+      "LocaleId" : {
+        "LocaleId" : "zh"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-22T20:16:42.921",
+      "ContextId" : "bb924128-1abf-4712-acd6-29fa5b2b2f0e",
+      "ParentUser" : {
+        "PK" : 6113466028273171842
+      },
+      "Process" : null,
+      "PK" : "6113466029213223372",
+      "Unique_Identifier" : "6113466029213223372"
+    } ],
+    "Unique_Identifier" : "6113466028273171842__strassociate211668@kering12-b1-it.com"
+  },
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-organization:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "c47799045674",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

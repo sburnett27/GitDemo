@@ -1,0 +1,16 @@
+{
+  "Media" : [ {
+    "MediaId" : "1",
+    "MediaSizeId" : ".jpg",
+    "MimeTypeId" : "https://res.cloudinary.com/manhpoc/image/upload/v1532531438/sifimages/TWKNAFSXS_1.jpg",
+    "Sequence" : "small image",
+    "URI" : "1"
+  }, {
+    "MediaId" : "2",
+    "MediaSizeId" : ".jpg",
+    "MimeTypeId" : "https://res.cloudinary.com/manhpoc/image/upload/v1532531438/sifimages/TWKNAFSXS_2.jpg",
+    "Sequence" : "large image",
+    "URI" : "2"
+  } ],
+  "ItemId" : "TWKNAFS"
+}

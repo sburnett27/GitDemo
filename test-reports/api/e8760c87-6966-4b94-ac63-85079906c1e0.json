@@ -1,0 +1,7 @@
+{
+  "Data" : [ {
+    "Description" : "Pick Instruction",
+    "NoteTypeId" : "PICK",
+    "NoteCategoryId" : "Instruction"
+  } ]
+}

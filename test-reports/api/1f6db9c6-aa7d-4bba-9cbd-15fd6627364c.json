@@ -1,0 +1,7 @@
+{
+  "Category" : "PickUp",
+  "Description" : "Minutes before delivery date, the pickup orders are assessed as risk",
+  "Value" : "0",
+  "DataType" : "Number",
+  "ConfigurationId" : "MINUTES_BEFORE_DELIVERY_DUE_DATE_AS_RISK_FOR_PICKUP_ORDER"
+}

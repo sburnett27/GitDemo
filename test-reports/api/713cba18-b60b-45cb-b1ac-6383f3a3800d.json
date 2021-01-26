@@ -1,0 +1,11 @@
+{
+  "Data" : [ {
+    "AccessorialCode" : "ADULT_SIGNATURE",
+    "ShipViaId" : "SV-FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "NON_STANDARD_CONTAINER",
+    "ShipViaId" : "SV-FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

@@ -1,0 +1,410 @@
+{
+  "ProfileId" : "1001",
+  "UpdatesConfirmed" : "false",
+  "IsCancelled" : "false",
+  "IsOnHold" : "false",
+  "HasNotes" : "false",
+  "CustomerId" : "Cus11668",
+  "IsConfirmed" : "true",
+  "OrderId" : "OrdA11668",
+  "SellingLocation" : "ATG",
+  "IsTaxExempt" : "false",
+  "CurrencyCode" : "USD",
+  "OrderTaxDetail" : [ {
+    "Jurisdiction" : "GEORGIA",
+    "Order" : {
+      "Criteria" : "OrderId == 'OrdA11668'"
+    },
+    "TaxAmount" : "0.52",
+    "IsInformational" : false,
+    "TaxCode" : "",
+    "TaxDetailId" : "theader_012a_04",
+    "TaxDate" : "2016-08-22T10:50:49.473",
+    "TaxTypeId" : "SALES",
+    "TaxableAmount" : "13",
+    "TaxRate" : "0.04",
+    "JurisdictionTypeId" : "STATE",
+    "TaxRequestTypeId" : "QUOTATION"
+  }, {
+    "Jurisdiction" : "COBB",
+    "Order" : {
+      "Criteria" : "OrderId == 'OrdA11668'"
+    },
+    "TaxAmount" : "0.26",
+    "IsInformational" : false,
+    "TaxCode" : "",
+    "TaxDetailId" : "theader_012a_004",
+    "TaxDate" : "2016-08-22T10:50:49.473",
+    "TaxTypeId" : "SALES",
+    "TaxableAmount" : "13",
+    "TaxRate" : "0.02",
+    "JurisdictionTypeId" : "COUNTY",
+    "TaxRequestTypeId" : "QUOTATION"
+  } ],
+  "IsPostVoided" : "false",
+  "Payment" : [ {
+    "PaymentMethod" : [ {
+      "PaymentMethodId" : "PM19",
+      "Amount" : "13.3",
+      "AccountNumber" : "4111111111111111",
+      "CardExpiryYear" : "2035",
+      "CurrencyCode" : "USD",
+      "BillingAddress" : {
+        "Address" : {
+          "Email" : "OMartell@yahoo.com",
+          "FirstName" : "Oberyn",
+          "State" : "GA",
+          "Phone" : "423-306-1973",
+          "Address2" : null,
+          "Address3" : null,
+          "PostalCode" : "30339",
+          "Country" : "US",
+          "LastName" : "Martell",
+          "Address1" : "2300 Windy Ridge",
+          "City" : "Atlanta",
+          "County" : null
+        }
+      },
+      "PaymentTransaction" : [ {
+        "PaymentTransactionId" : "PT19",
+        "Status" : {
+          "PaymentTransactionStatusId" : "Closed"
+        },
+        "PaymentResponseStatus" : {
+          "PaymentResponseStatusId" : "Success"
+        },
+        "TransactionType" : "Authorization",
+        "RequestId" : "21124123",
+        "TransactionExpiryDate" : "2017-11-09T16:15:43.254",
+        "ProcessedAmount" : "13.3",
+        "RequestToken" : "dgfr356ghgj768767",
+        "RequestedAmount" : "13.3"
+      } ],
+      "ChargeSequence" : "1",
+      "CardType" : {
+        "CardTypeId" : "Visa"
+      },
+      "PaymentType" : {
+        "PaymentTypeId" : "Credit Card"
+      },
+      "AccountDisplayNumber" : "Visa ending in 1234",
+      "NameOnCard" : "Varys",
+      "CardExpiryMonth" : "02"
+    }, {
+      "PaymentMethodId" : "PM20",
+      "Amount" : "31.1",
+      "AccountNumber" : "4111111111111111",
+      "CardExpiryYear" : "2035",
+      "CurrencyCode" : "USD",
+      "BillingAddress" : {
+        "Address" : {
+          "Email" : "OMartell@yahoo.com",
+          "FirstName" : "Oberyn",
+          "State" : "GA",
+          "Phone" : "423-306-1973",
+          "Address2" : null,
+          "Address3" : null,
+          "PostalCode" : "30339",
+          "Country" : "US",
+          "LastName" : "Martell",
+          "Address1" : "2300 Windy Ridge",
+          "City" : "Atlanta",
+          "County" : null
+        }
+      },
+      "PaymentTransaction" : [ {
+        "PaymentTransactionId" : "PT20",
+        "Status" : {
+          "PaymentTransactionStatusId" : "Closed"
+        },
+        "PaymentResponseStatus" : {
+          "PaymentResponseStatusId" : "Success"
+        },
+        "TransactionType" : "Authorization",
+        "RequestId" : "21124123",
+        "TransactionExpiryDate" : "2017-11-09T16:15:43.254",
+        "ProcessedAmount" : "31.1",
+        "RequestToken" : "dgfr356ghgj768767",
+        "RequestedAmount" : "31.1"
+      } ],
+      "ChargeSequence" : "1",
+      "CardType" : {
+        "CardTypeId" : "Visa"
+      },
+      "PaymentType" : {
+        "PaymentTypeId" : "Debit"
+      },
+      "AccountDisplayNumber" : "Visa ending in 1234",
+      "NameOnCard" : "Varys",
+      "CardExpiryMonth" : "02"
+    } ],
+    "OrderId" : null,
+    "PaymentGroupId" : null
+  } ],
+  "OrderType" : {
+    "OrderTypeId" : "Ecom Order"
+  },
+  "CustomerAlternateOrderId" : "Atl_ECOMORD1080",
+  "OrderLine" : [ {
+    "Order" : {
+      "Criteria" : "OrderId == 'OrdA11668'"
+    },
+    "ShipToAddress" : {
+      "Address" : {
+        "Email" : "yammy@rooster.net",
+        "FirstName" : "Aaron",
+        "State" : "GA",
+        "Phone" : "2815551212",
+        "PostalCode" : "30024-3887",
+        "Country" : "US",
+        "LastName" : "Rodgers",
+        "Address1" : "1302 Riverview Run Lane",
+        "City" : "Suwanee"
+      }
+    },
+    "OrderLineTaxDetail" : [ {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "IsInvoiceTax" : false,
+      "TaxDetailId" : "taxline_00012",
+      "TaxTypeId" : "SALES",
+      "TaxableAmount" : "127.00",
+      "TaxEngineId" : null,
+      "JurisdictionTypeId" : "STATE",
+      "TaxRequestTypeId" : "QUOTATION",
+      "Jurisdiction" : "GEORGIA",
+      "FulfillmentGroupId" : "ABC",
+      "TaxAmount" : "5.08",
+      "IsInformational" : false,
+      "TaxCode" : null,
+      "TaxDate" : "2016-08-22T10:50:49.473",
+      "TaxRate" : "0.04"
+    }, {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "IsInvoiceTax" : false,
+      "TaxDetailId" : "taxline_00013",
+      "TaxTypeId" : "SALES",
+      "TaxableAmount" : "127.0",
+      "TaxEngineId" : null,
+      "JurisdictionTypeId" : "COUNTY",
+      "TaxRequestTypeId" : "QUOTATION",
+      "Jurisdiction" : "COBB",
+      "FulfillmentGroupId" : "ABC",
+      "TaxAmount" : "2.54",
+      "IsInformational" : false,
+      "TaxCode" : null,
+      "TaxDate" : "2016-08-22T10:50:49.473",
+      "TaxRate" : "0.02"
+    } ],
+    "DeliveryMethod" : {
+      "DeliveryMethodId" : "PickUpAtStore"
+    },
+    "IsCancelled" : "false",
+    "Quantity" : "2",
+    "ItemId" : "Item1-11668",
+    "ItemDescription" : "Kid's T-Shirt Desc",
+    "ShippingMethodId" : "",
+    "IsTaxExempt" : "false",
+    "FulfillmentGroupId" : "ABC",
+    "OrderLineNote" : [ {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "NoteId" : "1",
+      "NoteType" : {
+        "NoteTypeId" : "PICK"
+      },
+      "NoteText" : "Instruction - Line",
+      "IsVisible" : "true",
+      "NoteCategory" : {
+        "NoteCategoryId" : "Instruction"
+      }
+    } ],
+    "UOM" : "Units",
+    "UnitPrice" : "10",
+    "IsGift" : "true",
+    "OrderLineId" : "1",
+    "ItemShortDescription" : "Kid's T-Shirt Short Desc",
+    "OrderLinePromisingInfo" : {
+      "IsForceAllocate" : "false",
+      "ShipFromLocationId" : "STR1-11668"
+    }
+  }, {
+    "Order" : {
+      "Criteria" : "OrderId == 'OrdA11668'"
+    },
+    "ShipToAddress" : {
+      "Address" : {
+        "Email" : "yammy@rooster.net",
+        "FirstName" : "Aaron",
+        "State" : "GA",
+        "Phone" : "2815551212",
+        "PostalCode" : "30024-3887",
+        "Country" : "US",
+        "LastName" : "Rodgers",
+        "Address1" : "1302 Riverview Run Lane",
+        "City" : "Suwanee"
+      }
+    },
+    "OrderLineTaxDetail" : [ {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "IsInvoiceTax" : false,
+      "TaxDetailId" : "taxline_00012",
+      "TaxTypeId" : "SALES",
+      "TaxableAmount" : "127.00",
+      "TaxEngineId" : null,
+      "JurisdictionTypeId" : "STATE",
+      "TaxRequestTypeId" : "QUOTATION",
+      "Jurisdiction" : "GEORGIA",
+      "FulfillmentGroupId" : "ABC",
+      "TaxAmount" : "5.08",
+      "IsInformational" : false,
+      "TaxCode" : null,
+      "TaxDate" : "2016-08-22T10:50:49.473",
+      "TaxRate" : "0.04"
+    }, {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "IsInvoiceTax" : false,
+      "TaxDetailId" : "taxline_00013",
+      "TaxTypeId" : "SALES",
+      "TaxableAmount" : "127.0",
+      "TaxEngineId" : null,
+      "JurisdictionTypeId" : "COUNTY",
+      "TaxRequestTypeId" : "QUOTATION",
+      "Jurisdiction" : "COBB",
+      "FulfillmentGroupId" : "ABC",
+      "TaxAmount" : "2.54",
+      "IsInformational" : false,
+      "TaxCode" : null,
+      "TaxDate" : "2016-08-22T10:50:49.473",
+      "TaxRate" : "0.02"
+    } ],
+    "DeliveryMethod" : {
+      "DeliveryMethodId" : "PickUpAtStore"
+    },
+    "IsCancelled" : "false",
+    "Quantity" : "3",
+    "ItemId" : "Item2-11668",
+    "ItemDescription" : "Women's T-Shirt Desc",
+    "ShippingMethodId" : "",
+    "IsTaxExempt" : "false",
+    "FulfillmentGroupId" : "ABC",
+    "UOM" : "Units",
+    "UnitPrice" : "10",
+    "IsGift" : "false",
+    "OrderLineId" : "2",
+    "ItemShortDescription" : "Women's T-Shirt Short Desc",
+    "OrderLinePromisingInfo" : {
+      "IsForceAllocate" : "false",
+      "ShipFromLocationId" : "STR1-11668"
+    }
+  }, {
+    "Order" : {
+      "Criteria" : "OrderId == 'OrdA11668'"
+    },
+    "ShipToAddress" : {
+      "Address" : {
+        "Email" : "yammy@rooster.net",
+        "FirstName" : "Aaron",
+        "State" : "GA",
+        "Phone" : "2815551212",
+        "PostalCode" : "30024-3887",
+        "Country" : "US",
+        "LastName" : "Rodgers",
+        "Address1" : "1302 Riverview Run Lane",
+        "City" : "Suwanee"
+      }
+    },
+    "OrderLineTaxDetail" : [ {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "IsInvoiceTax" : false,
+      "TaxDetailId" : "taxline_00012",
+      "TaxTypeId" : "SALES",
+      "TaxableAmount" : "127.00",
+      "TaxEngineId" : null,
+      "JurisdictionTypeId" : "STATE",
+      "TaxRequestTypeId" : "QUOTATION",
+      "Jurisdiction" : "GEORGIA",
+      "FulfillmentGroupId" : "ABC",
+      "TaxAmount" : "5.08",
+      "IsInformational" : false,
+      "TaxCode" : null,
+      "TaxDate" : "2016-08-22T10:50:49.473",
+      "TaxRate" : "0.04"
+    }, {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "IsInvoiceTax" : false,
+      "TaxDetailId" : "taxline_00013",
+      "TaxTypeId" : "SALES",
+      "TaxableAmount" : "127.0",
+      "TaxEngineId" : null,
+      "JurisdictionTypeId" : "COUNTY",
+      "TaxRequestTypeId" : "QUOTATION",
+      "Jurisdiction" : "COBB",
+      "FulfillmentGroupId" : "ABC",
+      "TaxAmount" : "2.54",
+      "IsInformational" : false,
+      "TaxCode" : null,
+      "TaxDate" : "2016-08-22T10:50:49.473",
+      "TaxRate" : "0.02"
+    } ],
+    "DeliveryMethod" : {
+      "DeliveryMethodId" : "PickUpAtStore"
+    },
+    "IsCancelled" : "false",
+    "Quantity" : "2",
+    "ItemId" : "Item3-11668",
+    "ItemDescription" : "Men's T-Shirt Desc",
+    "ShippingMethodId" : "",
+    "IsTaxExempt" : "false",
+    "FulfillmentGroupId" : "ABC",
+    "OrderLineNote" : [ {
+      "Order" : {
+        "Criteria" : "OrderId == 'OrdA11668'"
+      },
+      "NoteId" : "2",
+      "NoteType" : {
+        "NoteTypeId" : "PICK"
+      },
+      "NoteText" : "Instruction - Line",
+      "IsVisible" : "true",
+      "NoteCategory" : {
+        "NoteCategoryId" : "Instruction"
+      }
+    } ],
+    "UOM" : "Units",
+    "UnitPrice" : "10",
+    "IsGift" : "true",
+    "OrderLineId" : "3",
+    "ItemShortDescription" : "Men's T-Shirt Short Desc",
+    "OrderLinePromisingInfo" : {
+      "IsForceAllocate" : "false",
+      "ShipFromLocationId" : "STR1-11668"
+    }
+  } ],
+  "OrderActions" : {
+    "IsAlreadyPriced" : true,
+    "IsAlreadyTaxed" : true,
+    "IsAlreadyCharged" : true
+  },
+  "ParentOrderId" : "0001",
+  "SellingChannel" : {
+    "SellingChannelId" : "Web"
+  },
+  "HasAlerts" : "false",
+  "DocType" : {
+    "DocTypeId" : "CustomerOrder"
+  },
+  "IsReadyForTender" : "false"
+}

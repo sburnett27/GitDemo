@@ -1,0 +1,130 @@
+{
+  "CreatedTimestamp" : "2021-01-18T15:09:51.443",
+  "Address" : {
+    "Email" : "supplychainadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "Georgia",
+    "Phone" : null,
+    "Address2" : "Windy Ridge Parkway",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300",
+    "City" : "Atlanta",
+    "County" : null
+  },
+  "IsActive" : true,
+  "OrgUser" : [ ],
+  "Process" : null,
+  "Gender" : null,
+  "StartDate" : null,
+  "UpdatedBy" : "systemadmin@system.com",
+  "UserTimeZone" : "US/Eastern",
+  "UserLocation" : [ ],
+  "UserPin" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:09:51.444",
+    "User" : null,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:09:51.444",
+    "UserId" : "admin@fb-brand2-us-s",
+    "ContextId" : "49d22832-6f17-48a7-a159-c9494e0e1104",
+    "Process" : null,
+    "PK" : "6109825914445585025",
+    "Unique_Identifier" : "6109825914445585025__admin@fb-brand2-us-s"
+  } ],
+  "Email2" : null,
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "PasswordExpiry" : null,
+  "DateOfBirth" : null,
+  "UserLoginHistory" : [ ],
+  "IdentityType" : {
+    "IdentityTypeId" : "Database"
+  },
+  "UpdatedTimestamp" : "2021-01-18T15:09:51.443",
+  "PrimaryOrgId" : "FB-BRAND2-US-S",
+  "Messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "CreatedBy" : "systemadmin@system.com",
+  "UserBusinessUnit" : [ ],
+  "MustClock" : false,
+  "FirstName" : null,
+  "ImageUrl" : null,
+  "EndDate" : null,
+  "UserDefaults" : [ ],
+  "UserId" : "admin@fb-brand2-us-s",
+  "ContextId" : "49d22832-6f17-48a7-a159-c9494e0e1104",
+  "LastName" : null,
+  "PK" : "6109825914435572291",
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "HasAccessToAllBUs" : false,
+  "AvailableUserLocales" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:09:51.537",
+    "LocaleId" : {
+      "LocaleId" : "de"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:09:51.537",
+    "ContextId" : "49d22832-6f17-48a7-a159-c9494e0e1104",
+    "ParentUser" : {
+      "PK" : 6109825914435572291
+    },
+    "Process" : null,
+    "PK" : "6109825915375597662",
+    "Unique_Identifier" : "6109825915375597662"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:09:51.537",
+    "LocaleId" : {
+      "LocaleId" : "es"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:09:51.537",
+    "ContextId" : "49d22832-6f17-48a7-a159-c9494e0e1104",
+    "ParentUser" : {
+      "PK" : 6109825914435572291
+    },
+    "Process" : null,
+    "PK" : "6109825915375602409",
+    "Unique_Identifier" : "6109825915375602409"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:09:51.537",
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:09:51.537",
+    "ContextId" : "49d22832-6f17-48a7-a159-c9494e0e1104",
+    "ParentUser" : {
+      "PK" : 6109825914435572291
+    },
+    "Process" : null,
+    "PK" : "6109825915375612734",
+    "Unique_Identifier" : "6109825915375612734"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:09:51.537",
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:09:51.537",
+    "ContextId" : "49d22832-6f17-48a7-a159-c9494e0e1104",
+    "ParentUser" : {
+      "PK" : 6109825914435572291
+    },
+    "Process" : null,
+    "PK" : "6109825915375626136",
+    "Unique_Identifier" : "6109825915375626136"
+  } ],
+  "Unique_Identifier" : "6109825914435572291__admin@fb-brand2-us-s"
+}

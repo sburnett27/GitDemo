@@ -1,0 +1,190 @@
+{
+  "Data" : [ {
+    "IsScanOnly" : "true",
+    "ShipToAddress" : true,
+    "ItemCode" : [ {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item1-11668'"
+      },
+      "CodeTypeId" : {
+        "CodeTypeId" : "Primary_UPC"
+      },
+      "Value" : "12341001"
+    }, {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item1-11668'"
+      },
+      "CodeTypeId" : {
+        "CodeTypeId" : "GTIN"
+      },
+      "Value" : "56781001"
+    } ],
+    "Description" : "Kid's T-Shirt Desc",
+    "Size" : "M",
+    "BaseUOM" : "Units",
+    "ItemId" : "Item1-11668",
+    "ShortDescription" : "Kid's T-Shirt Short Desc",
+    "SeasonYear" : 2015,
+    "IsGiftwithPurchase" : false,
+    "HandlingAttributes" : {
+      "IsParcelShippingAllowed" : "true",
+      "IsAirShippingAllowed" : "true",
+      "IsFrozen" : "false"
+    },
+    "Style" : "Casual",
+    "ValueAddedServices" : [ {
+      "ValueAddedServiceTypeId" : {
+        "ValueAddedServiceTypeId" : "GW"
+      }
+    } ],
+    "ManufacturingAttribute" : [ {
+      "ScanQuantity" : "2",
+      "Item" : {
+        "Criteria" : "ItemId == 'Item1-11668'"
+      },
+      "CountryofOrigin" : "CN",
+      "Upc" : "13571001",
+      "VendorLocationId" : "01"
+    }, {
+      "ScanQuantity" : "1",
+      "Item" : {
+        "Criteria" : "ItemId == 'Item1-11668'"
+      },
+      "CountryofOrigin" : "US",
+      "Upc" : "24681001",
+      "VendorLocationId" : "02"
+    } ],
+    "StoreDepartment" : "Kid's Apparel",
+    "ProductClass" : "",
+    "WeightUOM" : "LB",
+    "ShipToStore" : true,
+    "SmallImageURI" : "/smallitem1.jpeg",
+    "Color" : "Blck",
+    "Media" : [ {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item1-11668'"
+      },
+      "MediaId" : "Media Id1",
+      "MediaSizeId" : "small image",
+      "MimeTypeId" : ".jpeg",
+      "Sequence" : "1",
+      "URI" : "/smallimage/kidstshirt.jpeg"
+    }, {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item1-11668'"
+      },
+      "MediaId" : "Media Id2",
+      "MediaSizeId" : "large image",
+      "MimeTypeId" : ".png",
+      "Sequence" : "2",
+      "URI" : "/largeimage/kidstshirt.png"
+    } ],
+    "WebURL" : "https://images.com/item1.png",
+    "Weight" : "1.5",
+    "Brand" : "",
+    "SellingAttributes" : {
+      "ShipToAddress" : true,
+      "PickUpInStore" : true,
+      "ShipToStore" : true
+    },
+    "LargeImageURI" : "/largeitem1.jpeg"
+  }, {
+    "IsScanOnly" : "false",
+    "ShipToAddress" : true,
+    "WeightUOM" : "LB",
+    "ItemCode" : [ {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item2-11668'"
+      },
+      "CodeTypeId" : {
+        "CodeTypeId" : "Primary_UPC"
+      },
+      "Value" : "12341002"
+    }, {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item2-11668'"
+      },
+      "CodeTypeId" : {
+        "CodeTypeId" : "Secondary_UPC"
+      },
+      "Value" : "56781002"
+    } ],
+    "Description" : "Women's T-Shirt Desc",
+    "ShipToStore" : true,
+    "Size" : "XS",
+    "SmallImageURI" : "/smallitem2.jpeg",
+    "Color" : "Grn",
+    "BaseUOM" : "Units",
+    "WebURL" : "https://images.com/item2.png",
+    "ItemId" : "Item2-11668",
+    "Weight" : "2",
+    "ShortDescription" : "Women's T-Shirt Short Desc",
+    "SeasonYear" : 2015,
+    "Brand" : "",
+    "IsGiftwithPurchase" : false,
+    "SellingAttributes" : {
+      "ShipToAddress" : true,
+      "PickUpInStore" : true,
+      "ShipToStore" : true
+    },
+    "HandlingAttributes" : {
+      "IsParcelShippingAllowed" : "true",
+      "IsAirShippingAllowed" : "true",
+      "IsFrozen" : "false"
+    },
+    "Style" : "Formal",
+    "ValueAddedServices" : [ {
+      "ValueAddedServiceTypeId" : {
+        "ValueAddedServiceTypeId" : "GW"
+      }
+    } ],
+    "LargeImageURI" : "/largeitem2.jpeg",
+    "StoreDepartment" : "",
+    "ProductClass" : ""
+  }, {
+    "IsScanOnly" : "false",
+    "ShipToAddress" : true,
+    "WeightUOM" : "LB",
+    "ItemCode" : [ {
+      "Item" : {
+        "Criteria" : "ItemId == 'Item3-11668'"
+      },
+      "CodeTypeId" : {
+        "CodeTypeId" : "GTIN"
+      },
+      "Value" : "12341003"
+    } ],
+    "Description" : "Men's T-Shirt Desc",
+    "ShipToStore" : true,
+    "Size" : "XS",
+    "SmallImageURI" : "/smallitem3.jpeg",
+    "Color" : "Grn",
+    "BaseUOM" : "Units",
+    "WebURL" : "https://images.com/item3.png",
+    "ItemId" : "Item3-11668",
+    "Weight" : "2",
+    "ShortDescription" : "Men's T-Shirt Short Desc",
+    "SeasonYear" : 2015,
+    "Brand" : "",
+    "IsGiftwithPurchase" : false,
+    "SellingAttributes" : {
+      "ShipToAddress" : true,
+      "PickUpInStore" : true,
+      "ShipToStore" : true
+    },
+    "HandlingAttributes" : {
+      "IsParcelShippingAllowed" : "true",
+      "IsAirShippingAllowed" : "true",
+      "IsFrozen" : "false"
+    },
+    "Style" : "Formal",
+    "ValueAddedServices" : [ {
+      "ValueAddedServiceTypeId" : {
+        "ValueAddedServiceTypeId" : "GW"
+      }
+    } ],
+    "LargeImageURI" : "/largeitem3.jpeg",
+    "StoreDepartment" : "",
+    "ProductClass" : ""
+  } ]
+}

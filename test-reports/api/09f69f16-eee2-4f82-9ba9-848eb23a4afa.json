@@ -1,0 +1,10 @@
+{
+  "ItemCode" : [ {
+    "Type" : "UPC_Secondary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Secondary"
+    },
+    "Value" : "44444441001"
+  } ],
+  "ItemId" : "CSFSWPP"
+}

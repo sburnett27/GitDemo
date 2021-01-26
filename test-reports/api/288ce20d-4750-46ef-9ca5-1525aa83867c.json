@@ -1,0 +1,33 @@
+{
+  "Data" : [ {
+    "FulfillmentReasonName" : "Damaged",
+    "FulfillmentReasonDesc" : "This item is damaged",
+    "FulfillmentReasonId" : "1000.000",
+    "FulfillmentReasonTypeId" : "2000.000"
+  }, {
+    "FulfillmentReasonName" : "No Respone",
+    "FulfillmentReasonDesc" : "No response from customer",
+    "FulfillmentReasonId" : "2000.000",
+    "FulfillmentReasonTypeId" : "1000.000"
+  }, {
+    "FulfillmentReasonName" : "No Inventory",
+    "FulfillmentReasonDesc" : "Inventory is not available for this item",
+    "FulfillmentReasonId" : "3000.000",
+    "FulfillmentReasonTypeId" : "2000.000"
+  }, {
+    "FulfillmentReasonName" : "Customer not interested",
+    "FulfillmentReasonDesc" : "Customer is not interested to buy this item",
+    "FulfillmentReasonId" : "4000.000",
+    "FulfillmentReasonTypeId" : "1000.000"
+  }, {
+    "FulfillmentReasonName" : "Store Outage",
+    "FulfillmentReasonDesc" : "Store is not operating temporarily - outage",
+    "FulfillmentReasonId" : "5000.000",
+    "FulfillmentReasonTypeId" : "2000.000"
+  }, {
+    "FulfillmentReasonName" : "Cancelled due to size mismatch",
+    "FulfillmentReasonDesc" : "Cancelled by customer due to size mismatch",
+    "FulfillmentReasonId" : "6000.000",
+    "FulfillmentReasonTypeId" : "1000.000"
+  } ]
+}

@@ -1,0 +1,24 @@
+{
+  "IsActive" : true,
+  "OrganizationId" : "FB-BRAND2-CANADA-S",
+  "ProvisioningProfileDetail" : [ {
+    "ProfileId" : "Profile-Outlet-FB-BRAND2-CANADA-S",
+    "StoreProfileTypeId" : "Outlet",
+    "OwnedByOrg" : "FB-BRAND2-CANADA-S",
+    "LocationId" : null,
+    "ProfilePurposeId" : "ful::fulfillmentConfig"
+  }, {
+    "ProfileId" : "Profile-Outlet-FB-BRAND2-CANADA-S",
+    "StoreProfileTypeId" : "Outlet",
+    "OwnedByOrg" : "FB-BRAND2-CANADA-S",
+    "LocationId" : null,
+    "ProfilePurposeId" : "ppo::locationLayout"
+  }, {
+    "ProfileId" : "Profile-Outlet-FB-BRAND2-CANADA-S",
+    "StoreProfileTypeId" : "Outlet",
+    "OwnedByOrg" : "FB-BRAND2-CANADA-S",
+    "LocationId" : null,
+    "ProfilePurposeId" : "sim::inventoryConfig"
+  } ],
+  "ProvisioningProfileId" : "FB-BRAND2-CANADA-S"
+}

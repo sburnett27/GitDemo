@@ -1,0 +1,16 @@
+{
+  "ManufacturingAttribute" : [ {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "US",
+    "VendorStyleNumber" : "S1",
+    "Upc" : "2121211001",
+    "VendorLocationId" : "USLOC1"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "US",
+    "VendorStyleNumber" : "S2",
+    "Upc" : "3131311001",
+    "VendorLocationId" : "USLOC2"
+  } ],
+  "ItemId" : "CSFSWPP"
+}

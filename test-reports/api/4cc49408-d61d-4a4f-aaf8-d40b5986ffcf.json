@@ -1,0 +1,15 @@
+{
+  "Description" : "Custom Package Desc",
+  "PackageTypeName" : "PT Custom Package",
+  "Dimension" : {
+    "UOM" : {
+      "name" : "key",
+      "Code" : "IN"
+    },
+    "Length" : "20",
+    "Height" : "5",
+    "Width" : "10"
+  },
+  "PackageTypeId" : "PT-Custom Package",
+  "ProvisioningProfileId" : "FB-US-S"
+}

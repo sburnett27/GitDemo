@@ -1,0 +1,383 @@
+{
+  "success" : true,
+  "header" : null,
+  "data" : {
+    "Messages" : null,
+    "ProfileId" : "Profile-FB-BRAND2-US-S",
+    "DimensionUOM" : null,
+    "CreatedTimestamp" : "2021-01-18T13:37:52.186",
+    "Size" : "",
+    "BaseUOM" : "Units",
+    "Extended" : {
+      "ExtendedAttribute1" : null
+    },
+    "DepartmentNumber" : null,
+    "Process" : null,
+    "ItemId" : "DPSWSC",
+    "ShortDescription" : "Ditsy Print Shirt with Spread Collar",
+    "UpdatedBy" : "admin@FB-BRAND2-US-S",
+    "ItemInstruction" : [ ],
+    "ManufacturingAttribute" : [ {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.046",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.046",
+      "Upc" : "2121211001",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S1",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800454624516",
+      "VendorLocationId" : "USLOC1",
+      "Unique_Identifier" : "6109770800454624516__US__2121211001__USLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.046",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.046",
+      "Upc" : "3131311001",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S2",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800464635156",
+      "VendorLocationId" : "USLOC2",
+      "Unique_Identifier" : "6109770800464635156__US__3131311001__USLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.046",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.046",
+      "Upc" : "4141411001",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "UK",
+      "VendorStyleNumber" : "S3",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800464644061",
+      "VendorLocationId" : "UKLOC1",
+      "Unique_Identifier" : "6109770800464644061__UK__4141411001__UKLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.046",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.046",
+      "Upc" : "5151511001",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "UK",
+      "VendorStyleNumber" : "S4",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800464654374",
+      "VendorLocationId" : "UKLOC2",
+      "Unique_Identifier" : "6109770800464654374__UK__5151511001__UKLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.047",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.047",
+      "Upc" : "6161611001",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S5",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800474668795",
+      "VendorLocationId" : "CNLOC1",
+      "Unique_Identifier" : "6109770800474668795__CN__6161611001__CNLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.047",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.047",
+      "Upc" : "7171711001",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S6",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800474673154",
+      "VendorLocationId" : "CNLOC2",
+      "Unique_Identifier" : "6109770800474673154__CN__7171711001__CNLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.047",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.047",
+      "Upc" : "6161611002",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S5",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800474686222",
+      "VendorLocationId" : "CNLOC1",
+      "Unique_Identifier" : "6109770800474686222__CN__6161611002__CNLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.048",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.048",
+      "Upc" : "7171711002",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S6",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800484696070",
+      "VendorLocationId" : "CNLOC2",
+      "Unique_Identifier" : "6109770800484696070__CN__7171711002__CNLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.048",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.048",
+      "Upc" : "2121211003",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S1",
+      "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+      "PK" : "6109770800484705730",
+      "VendorLocationId" : "USLOC1",
+      "Unique_Identifier" : "6109770800484705730__US__2121211003__USLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-18T13:38:00.581",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:38:00.581",
+      "Upc" : "3131311003",
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "CountryofOrigin" : "UK",
+      "VendorStyleNumber" : "S3",
+      "ContextId" : "b99365ff-c735-46c7-915c-4c6bc2bc1551",
+      "PK" : "6109770805814742872",
+      "VendorLocationId" : "UKLOC1",
+      "Unique_Identifier" : "6109770805814742872__UK__3131311003__UKLOC1"
+    } ],
+    "ReasonId" : "",
+    "CreatedBy" : "admin@FB-BRAND2-US-S",
+    "VolumetricWeight" : null,
+    "SmallImageURI" : "",
+    "Color" : "",
+    "Media" : [ ],
+    "WebURL" : "",
+    "Weight" : null,
+    "SizeSortSequence" : null,
+    "IsDiscontinued" : false,
+    "Brand" : "U.S. Polo",
+    "Volume" : null,
+    "ContextId" : "386feeea-a931-47e6-927c-12f1c1988ee1",
+    "DepartmentName" : null,
+    "LocalizedData" : [ ],
+    "ItemAttribute" : [ ],
+    "IsScanOnly" : false,
+    "ItemCode" : [ {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:55.356",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:55.356",
+      "CodeTypeId" : {
+        "CodeTypeId" : "UPC_Secondary"
+      },
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "Type" : "UPC_Secondary",
+      "Value" : "44444441001",
+      "ContextId" : "345f2de6-f3f7-48c3-9769-1123335f5f18",
+      "PK" : "6109770753563945967",
+      "Unique_Identifier" : "6109770753563945967"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:55.356",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:55.356",
+      "CodeTypeId" : {
+        "CodeTypeId" : "GTIN"
+      },
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "Type" : "GTIN",
+      "Value" : "66666661003",
+      "ContextId" : "345f2de6-f3f7-48c3-9769-1123335f5f18",
+      "PK" : "6109770753563952436",
+      "Unique_Identifier" : "6109770753563952436"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:55.356",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:55.356",
+      "CodeTypeId" : {
+        "CodeTypeId" : "UPC_Primary"
+      },
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "Type" : "UPC_Primary",
+      "Value" : "22222221002",
+      "ContextId" : "345f2de6-f3f7-48c3-9769-1123335f5f18",
+      "PK" : "6109770753563968971",
+      "Unique_Identifier" : "6109770753563968971"
+    } ],
+    "Description" : "Ditsy Print Shirt with Spread Collar Desc",
+    "IsRecalled" : false,
+    "ColorImageURI" : "",
+    "SeasonYear" : 2019,
+    "IsGiftwithPurchase" : false,
+    "HandlingAttributes" : {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:52.186",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:52.186",
+      "IsHazmat" : false,
+      "Process" : null,
+      "IsParcelShippingAllowed" : false,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "ContextId" : "bd56f23f-9557-498b-afd1-27ae2a4a192b",
+      "HazmatCode" : null,
+      "IsAirShippingAllowed" : false,
+      "IsFrozen" : false,
+      "PK" : "6109770721863028692",
+      "Unique_Identifier" : "6109770721863028692"
+    },
+    "ProductSubClass" : null,
+    "Style" : "",
+    "ValueAddedServices" : [ {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:52.186",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:52.186",
+      "ContextId" : "bd56f23f-9557-498b-afd1-27ae2a4a192b",
+      "ValueAddedServiceTypeId" : {
+        "ValueAddedServiceTypeId" : "GW"
+      },
+      "ParentItem" : {
+        "PK" : 6109770721853013420
+      },
+      "Process" : null,
+      "PK" : "6109770721863032276",
+      "Unique_Identifier" : "6109770721863032276"
+    } ],
+    "Height" : null,
+    "ItemStatusId" : null,
+    "StoreDepartment" : "",
+    "Season" : "ALL",
+    "ProductClass" : "",
+    "IsNonMerchandise" : false,
+    "Width" : null,
+    "UpdatedTimestamp" : "2021-01-18T13:38:00.257",
+    "WeightUOM" : "LB",
+    "ItemExtension1" : [ ],
+    "IsGiftCard" : false,
+    "ColorSortSequence" : null,
+    "VolumeUOM" : null,
+    "VolumetricWeightUOM" : null,
+    "SellingAttributes" : {
+      "ProfileId" : "Profile-FB-BRAND2-US-S",
+      "ShipToAddress" : true,
+      "PriceStatusId" : "false",
+      "CreatedTimestamp" : "2021-01-18T13:37:52.187",
+      "IsExchangeable" : true,
+      "IsPriceOverrideable" : false,
+      "SellThrough" : null,
+      "Process" : null,
+      "ValueEntryRequired" : false,
+      "UpdatedBy" : "admin@FB-BRAND2-US-S",
+      "TaxCode" : "false",
+      "SoldInStores" : false,
+      "SoldOnline" : false,
+      "IsTaxable" : false,
+      "ActivationRequired" : false,
+      "UpdatedTimestamp" : "2021-01-18T13:37:52.187",
+      "CreatedBy" : "admin@FB-BRAND2-US-S",
+      "ShipToStore" : false,
+      "DispositionId" : null,
+      "AvailableToSellDateTime" : null,
+      "IsTaxOverrideable" : false,
+      "IsDiscountable" : true,
+      "IsReturnableAtStore" : false,
+      "MaxDiscount" : -1.0,
+      "PickUpInStore" : false,
+      "IsReturnableAtDC" : false,
+      "MaxDiscountAmount" : null,
+      "SellDate" : null,
+      "DigitalGoods" : false,
+      "ContextId" : "bd56f23f-9557-498b-afd1-27ae2a4a192b",
+      "IsTaxExemptable" : false,
+      "PK" : "6109770721873043880",
+      "MaxDiscountPercentage" : null,
+      "Unique_Identifier" : "6109770721873043880"
+    },
+    "Length" : null,
+    "InventoryProtection" : null,
+    "PK" : "6109770721853013420",
+    "LargeImageURI" : "",
+    "RecommendedProduct" : [ ],
+    "Unique_Identifier" : "6109770721853013420__DPSWSC"
+  },
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-item:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "42369f8690d8",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

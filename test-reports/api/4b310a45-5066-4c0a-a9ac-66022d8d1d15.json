@@ -1,0 +1,34 @@
+{
+  "data" : [ {
+    "PullbackOrderType" : "Return to DC",
+    "ClusterCoordinateUnits" : 0,
+    "MustVerifyBeforePickup" : "false",
+    "FulfillmentParameterId" : "Default_Fulfillment_Parameters",
+    "StoreInitiatedTransfers" : {
+      "DefaultReceiptTypeId" : {
+        "ReceiptTypeId" : "ReceiveByPackage"
+      }
+    },
+    "NumberOfSlots" : "10",
+    "SlotSequenceType" : {
+      "SlotSequenceId" : "Alphabets"
+    },
+    "EnableReturnToShelfOn" : null,
+    "PickToSlotForShipment" : "false",
+    "PullbackTransferGroupBy" : {
+      "PullbackTransferGroupById" : "Item"
+    },
+    "TransferOrderType" : "Store Transfer",
+    "RaiseInTransitSupplyEvents" : "false",
+    "PickToSlotForPickup" : "false",
+    "SortReturnToShelfOrdersBy" : {
+      "RtsSortConfigurationId" : "Location (Ascending)"
+    },
+    "DaysToArchive" : "30",
+    "ShowInstructionOnPickup" : "false",
+    "ArchiveOrPurge" : {
+      "ArchiveOrPurgeId" : "Archive"
+    }
+  } ],
+  "Location" : "STR2-FB-BRAND1-US-S"
+}

@@ -1,0 +1,22 @@
+{
+  "ItemCode" : [ {
+    "Type" : "Primary_UPC",
+    "CodeTypeId" : {
+      "CodeTypeId" : "Primary_UPC"
+    },
+    "Value" : "11111111004"
+  }, {
+    "Type" : "Secondary_UPC",
+    "CodeTypeId" : {
+      "CodeTypeId" : "Secondary_UPC"
+    },
+    "Value" : "33333331004"
+  }, {
+    "Type" : "GTIN",
+    "CodeTypeId" : {
+      "CodeTypeId" : "GTIN"
+    },
+    "Value" : "55555551005"
+  } ],
+  "ItemId" : "TBWSH"
+}

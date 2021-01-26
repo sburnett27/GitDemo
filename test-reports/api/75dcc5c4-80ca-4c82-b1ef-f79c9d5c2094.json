@@ -1,0 +1,108 @@
+{
+  "Data" : [ {
+    "Category" : "Pick",
+    "Description" : "Number of orders to pick for batch picking",
+    "Value" : "10",
+    "DataType" : "Number",
+    "ConfigurationId" : "NUMBER_OF_SHIP_TO_HOME_ORDERS_TO_PICK_FOR_BATCH_PICKING",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Pick",
+    "Description" : "Use path optimization while generating picklist",
+    "Value" : "True",
+    "DataType" : "Boolean",
+    "ConfigurationId" : "USE_PATH_OPTIMIZATION_WHILE_GENERATING_PICKLIST",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Pick",
+    "Description" : "Split Shipment fulfillments to be picked by multiple associates",
+    "Value" : "False",
+    "DataType" : "Boolean",
+    "ConfigurationId" : "SPLIT_SHIPMENT_FULFILLMENTS_TO_BE_PICKED_BY_MULTIPLE_ASSOCIATES",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Pick",
+    "Description" : "Split Pickup fulfillments to be picked by multiple associates",
+    "Value" : "False",
+    "DataType" : "Boolean",
+    "ConfigurationId" : "SPLIT_PICKUP_FULFILLMENTS_TO_BE_PICKED_BY_MULTIPLE_ASSOCIATES",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Pick",
+    "Description" : "Split fulfillments to be picked by multiple associates",
+    "Value" : "False",
+    "DataType" : "Boolean",
+    "ConfigurationId" : "SPLIT_FULFILLMENTS_TO_BE_PICKED_BY_MULTIPLE_ASSOCIATES",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Ship",
+    "Description" : "Move packages to shipped after tracking with carrier",
+    "Value" : "On",
+    "DataType" : "String",
+    "ConfigurationId" : "MOVE_PACKAGES_TO_SHIPPED_AFTER_TRACKING_WITH_CARRIER",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Ship",
+    "Description" : "Default Return Center",
+    "Value" : "",
+    "DataType" : "String",
+    "ConfigurationId" : "DEFAULT_RETURN_CENTER",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Ship",
+    "Description" : "Generate return labels while shipping for order types, each order type should be separated by double colon",
+    "Value" : "",
+    "DataType" : "String",
+    "ConfigurationId" : "GENERATE_RETURN_LABELS_WHILE_SHIPPING_FULFILLMENT_FOR_ORDER_TYPE",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Ship",
+    "Description" : "Default service level for return label",
+    "Value" : "",
+    "DataType" : "String",
+    "ConfigurationId" : "DEFAULT_SERVICE_LEVEL_FOR_RETURN_LABEL",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "PickUp",
+    "Description" : "Minutes before delivery date, the pickup orders are assessed as risk",
+    "Value" : "30",
+    "DataType" : "Number",
+    "ConfigurationId" : "MINUTES_BEFORE_DELIVERY_DUE_DATE_AS_RISK_FOR_PICKUP_ORDER",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Ship",
+    "Description" : "Minutes before shipping date, the shipment orders are assessed as risk",
+    "Value" : "120",
+    "DataType" : "Number",
+    "ConfigurationId" : "MINUTES_BEFORE_SHIPPING_DUE_DATE_AS_RISK_FOR_SHIPMENT_ORDER",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "PickUp",
+    "Description" : "Maximum number of days allowed for customer to pickup an order",
+    "Value" : "5",
+    "DataType" : "Number",
+    "ConfigurationId" : "MAXIMUM_NUMBER_OF_DAYS_ALLOWED_FOR_CUSTOMER_TO_PICKUP_THE_ORDER",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Sort",
+    "Description" : "Default Staging Location to place all single line fulfillments",
+    "Value" : "",
+    "DataType" : "String",
+    "ConfigurationId" : "DEFAULT_STAGING_LOCATION_TO_PLACE_ALL_SINGLE_LINE_FULFILLMENTS",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Fulfillment",
+    "Description" : "Required to scan at least one unit",
+    "Value" : "False",
+    "DataType" : "Boolean",
+    "ConfigurationId" : "REQUIRED_TO_SCAN_AT_LEAST_ONE_UNIT",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "Category" : "Fulfillment",
+    "Description" : "Always prompt store selection at login",
+    "Value" : "False",
+    "DataType" : "Boolean",
+    "ConfigurationId" : "ALWAYS_PROMPT_STORE_SELECTION_AT_LOGIN",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  } ]
+}

@@ -1,0 +1,72 @@
+{
+  "success" : true,
+  "header" : {
+    "totalCount" : "1",
+    "page" : 0,
+    "size" : 20
+  },
+  "data" : [ {
+    "Messages" : null,
+    "OrganizationName" : "FB-CANADA-Test",
+    "UpdatedTimestamp" : "2021-01-15T15:31:52.853",
+    "IsBaseImageProvider" : true,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:31:52.853",
+    "OrganizationAddress" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:31:52.854",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:31:52.854",
+      "Address" : {
+        "FirstName" : "Manhattan",
+        "LastName" : "Rogers",
+        "Address1" : "2300 Windy Ridge Parkway",
+        "Address2" : "",
+        "Address3" : "",
+        "City" : "Atlanta",
+        "State" : "GA",
+        "PostalCode" : "30339-5665",
+        "County" : null,
+        "Country" : "US",
+        "Phone" : null,
+        "Email" : null
+      },
+      "OrganizationAddressId" : "rogers-address-1",
+      "ParentOrganization" : {
+        "PK" : 6107247128538269098
+      },
+      "ContextId" : "a6defb7b-c9a2-4348-b829-9f7196c3ee19",
+      "Process" : null,
+      "PK" : "6107247128538276171",
+      "AddressType" : {
+        "AddressTypeId" : "HeadQuarters"
+      },
+      "Unique_Identifier" : "6107247128538276171__rogers-address-1"
+    } ],
+    "OrganizationContact" : [ ],
+    "IsManagedOrganization" : false,
+    "ImageUrl" : null,
+    "Process" : null,
+    "OrganizationId" : "FB-CANADA-S",
+    "Role" : [ ],
+    "UpdatedBy" : "systemadmin@system.com",
+    "ContextId" : "a6defb7b-c9a2-4348-b829-9f7196c3ee19",
+    "WebStoreUrl" : null,
+    "PK" : "6107247128538269098",
+    "Unique_Identifier" : "6107247128538269098__FB-CANADA-S",
+    "OrganizationHierarchy" : [ ]
+  } ],
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-organization:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "cab3009d57db",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

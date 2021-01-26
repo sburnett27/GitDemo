@@ -1,0 +1,27 @@
+{
+  "Data" : [ {
+    "FulfillmentReasonName" : "Damaged",
+    "FulfillmentReasonDesc" : "This item is damaged",
+    "FulfillmentReasonId" : "1000.000",
+    "FulfillmentReasonTypeId" : "2000.000",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "FulfillmentReasonName" : "No Respone",
+    "FulfillmentReasonDesc" : "No response from customer",
+    "FulfillmentReasonId" : "2000.000",
+    "FulfillmentReasonTypeId" : "1000.000",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "FulfillmentReasonName" : "No Inventory",
+    "FulfillmentReasonDesc" : "Inventory is not available for this item",
+    "FulfillmentReasonId" : "3000.000",
+    "FulfillmentReasonTypeId" : "2000.000",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  }, {
+    "FulfillmentReasonName" : "Customer not interested",
+    "FulfillmentReasonDesc" : "Customer is not interested to buy this item",
+    "FulfillmentReasonId" : "4000.000",
+    "FulfillmentReasonTypeId" : "1000.000",
+    "Location" : "STR3-FB-BRAND2-US-S"
+  } ]
+}

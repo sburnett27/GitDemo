@@ -1,0 +1,151 @@
+{
+  "Data" : [ {
+    "ResourceId" : "*",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Admin-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-pick-pickups",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Pickup-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-confirmpickups",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Pickup-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-cancelpickuporder",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Pickup-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-cancelpicking",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Pickup-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-stage",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Stage-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-print-all-pickup-slips",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Stage-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-pick-shipments",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Shipment-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-pack",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Shipment-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::packages::updatepackage",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Shipment-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-cancelpicking",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Shipment-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::menu-receive",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::receive-by-order",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::receive-at-wrong-store",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::view-inventory",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::adjust-inventory",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::inventory-logs",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::pullbacks-transfers",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::menu::cyclecounts",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::menu-receive",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::receive-by-order",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::receive-at-wrong-store",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::view-inventory",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::adjust-inventory",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::inventory-logs",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::pullbacks-transfers",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-inventory::inventory::menu::cyclecounts",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "RCVMgr-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-operations::operations::menu-dashboard",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "ManagerDashboard-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-operations::operations::menu-task-monitoring",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "TaskMonitoring-Five-Below-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-sort-pickups",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Sort-FB-BRAND1-CANADA-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-sort-shipments",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Sort-FB-BRAND1-CANADA-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-return-to-shelf",
+    "OrganizationId" : "FB-US-S",
+    "RoleId" : "RTS-FB-US-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::menu-contact-customer",
+    "OrganizationId" : "FB-US-S",
+    "RoleId" : "RTS-FB-US-S"
+  }, {
+    "ResourceId" : "ui-fulfillment::fulfillment::confirmitems",
+    "OrganizationId" : "FB-US-S",
+    "RoleId" : "RTS-FB-US-S"
+  }, {
+    "ResourceId" : "ui-operations::operations::widget-pickups",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "MDPickup-FB-BRAND2-US-S"
+  }, {
+    "ResourceId" : "ui-operations::operations::widget-additional-purchases",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "MDPickup-FB-BRAND2-US-S"
+  }, {
+    "ResourceId" : "ui-operations::operations::widget-shipments",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "MDShipment-FB-BRAND2-CANADA-S"
+  } ]
+}

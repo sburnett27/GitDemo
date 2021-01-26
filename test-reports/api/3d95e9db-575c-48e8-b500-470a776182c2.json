@@ -1,0 +1,262 @@
+{
+  "success" : true,
+  "header" : {
+    "totalCount" : "1",
+    "page" : 0,
+    "size" : 20
+  },
+  "data" : [ {
+    "Messages" : null,
+    "CreatedTimestamp" : "2021-01-15T15:32:22.445",
+    "Address" : {
+      "FirstName" : "Manhattan Associates",
+      "LastName" : "Inc",
+      "Address1" : "2300",
+      "Address2" : "Windy Ridge Parkway",
+      "Address3" : "10th Floor",
+      "City" : "Atlanta",
+      "State" : "Georgia",
+      "PostalCode" : "30339",
+      "County" : null,
+      "Country" : "US",
+      "Phone" : null,
+      "Email" : "supplychainadmin@manh.com"
+    },
+    "IsActive" : true,
+    "OrgUser" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:22.641",
+      "User" : {
+        "UserId" : "u4@fb-canada-s"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:22.641",
+      "UserId" : "u4@fb-canada-s",
+      "UserRole" : [ ],
+      "ContextId" : "46ac36c1-84d5-4d3c-bced-6b97c67ead23",
+      "Process" : null,
+      "PK" : "6107247426411273800",
+      "OrganizationId" : "FB-CANADA-S",
+      "Unique_Identifier" : "6107247426411273800__u4@fb-canada-s__FB-CANADA-S"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:33.885",
+      "User" : {
+        "UserId" : "u4@fb-canada-s"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:33.885",
+      "UserId" : "u4@fb-canada-s",
+      "UserRole" : [ {
+        "UpdatedTimestamp" : "2021-01-15T15:32:34.429",
+        "CreatedBy" : "systemadmin@system.com",
+        "CreatedTimestamp" : "2021-01-15T15:32:34.429",
+        "OrgUser" : {
+          "UserId" : "u4@fb-canada-s",
+          "OrganizationId" : "FB-BRAND1-CANADA-S"
+        },
+        "Process" : null,
+        "OrganizationId" : "FB-BRAND1-CANADA-S",
+        "RoleId" : "Shipment-Five-Below-S",
+        "UpdatedBy" : "systemadmin@system.com",
+        "UserId" : "u4@fb-canada-s",
+        "ContextId" : "ab6ef7b0-1de8-4709-a3bb-83d7249fa1f7",
+        "PK" : "6107247544291855036",
+        "RoleOrgId" : "Five-Below-S",
+        "Unique_Identifier" : "6107247544291855036__u4@fb-canada-s__FB-BRAND1-CANADA-S__Shipment-Five-Below-S__Five-Below-S"
+      } ],
+      "ContextId" : "9426efbf-e81b-4c46-8d09-0b1c8c2fb700",
+      "Process" : null,
+      "PK" : "6107247538841534792",
+      "OrganizationId" : "FB-BRAND1-CANADA-S",
+      "Unique_Identifier" : "6107247538841534792__u4@fb-canada-s__FB-BRAND1-CANADA-S"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:33.891",
+      "User" : {
+        "UserId" : "u4@fb-canada-s"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:33.891",
+      "UserId" : "u4@fb-canada-s",
+      "UserRole" : [ {
+        "UpdatedTimestamp" : "2021-01-15T15:32:34.433",
+        "CreatedBy" : "systemadmin@system.com",
+        "CreatedTimestamp" : "2021-01-15T15:32:34.433",
+        "OrgUser" : {
+          "UserId" : "u4@fb-canada-s",
+          "OrganizationId" : "FB-BRAND2-CANADA-S"
+        },
+        "Process" : null,
+        "OrganizationId" : "FB-BRAND2-CANADA-S",
+        "RoleId" : "ReceivingInventory-Five-Below-S",
+        "UpdatedBy" : "systemadmin@system.com",
+        "UserId" : "u4@fb-canada-s",
+        "ContextId" : "ab6ef7b0-1de8-4709-a3bb-83d7249fa1f7",
+        "PK" : "6107247544331868633",
+        "RoleOrgId" : "Five-Below-S",
+        "Unique_Identifier" : "6107247544331868633__u4@fb-canada-s__FB-BRAND2-CANADA-S__ReceivingInventory-Five-Below-S__Five-Below-S"
+      } ],
+      "ContextId" : "9426efbf-e81b-4c46-8d09-0b1c8c2fb700",
+      "Process" : null,
+      "PK" : "6107247538911546183",
+      "OrganizationId" : "FB-BRAND2-CANADA-S",
+      "Unique_Identifier" : "6107247538911546183__u4@fb-canada-s__FB-BRAND2-CANADA-S"
+    } ],
+    "Extended" : {
+      "ExtendedAttr4" : null,
+      "ExtendedAttr5" : null,
+      "ExtendedAttr1" : null,
+      "ExtendedAttr2" : null,
+      "ExtendedAttr3" : null
+    },
+    "Process" : null,
+    "Gender" : null,
+    "StartDate" : null,
+    "UpdatedBy" : "systemadmin@system.com",
+    "UserTimeZone" : "US/Eastern",
+    "UserLocation" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:31.644",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:31.644",
+      "LocationId" : "STR6-FB-BRAND1-CANADA-S",
+      "ContextId" : "1a2c22d4-53cf-4c71-b9c4-5607b57f9bd2",
+      "ParentUser" : {
+        "PK" : 6107247424451215756
+      },
+      "Process" : null,
+      "PK" : "6107247516441444364",
+      "Unique_Identifier" : "6107247516441444364__STR6-FB-BRAND1-CANADA-S"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:31.644",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:31.644",
+      "LocationId" : "STR7-FB-BRAND2-CANADA-S",
+      "ContextId" : "1a2c22d4-53cf-4c71-b9c4-5607b57f9bd2",
+      "ParentUser" : {
+        "PK" : 6107247424451215756
+      },
+      "Process" : null,
+      "PK" : "6107247516441452626",
+      "Unique_Identifier" : "6107247516441452626__STR7-FB-BRAND2-CANADA-S"
+    } ],
+    "UserPin" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:22.445",
+      "User" : {
+        "UserId" : "u4@fb-canada-s"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:22.445",
+      "UserId" : "u4@fb-canada-s",
+      "ContextId" : "46ac36c1-84d5-4d3c-bced-6b97c67ead23",
+      "Process" : null,
+      "PK" : "6107247424451229092",
+      "Unique_Identifier" : "6107247424451229092__u4@fb-canada-s"
+    } ],
+    "Email2" : null,
+    "UserLocale" : {
+      "LocaleId" : "en"
+    },
+    "PasswordExpiry" : null,
+    "DateOfBirth" : null,
+    "UserLoginHistory" : [ ],
+    "IdentityType" : {
+      "IdentityTypeId" : "database"
+    },
+    "UpdatedTimestamp" : "2021-01-18T13:35:55.595",
+    "PrimaryOrgId" : "FB-CANADA-S",
+    "CreatedBy" : "systemadmin@system.com",
+    "UserBusinessUnit" : [ ],
+    "MustClock" : false,
+    "FirstName" : null,
+    "ImageUrl" : null,
+    "EndDate" : null,
+    "UserDefaults" : [ ],
+    "UserId" : "u4@fb-canada-s",
+    "ContextId" : "cab4fd4f-d5d6-4ad0-8c19-d503f6bfe0b7",
+    "LastName" : null,
+    "PK" : "6107247424451215756",
+    "UserType" : {
+      "UserTypeId" : "Human"
+    },
+    "HasAccessToAllBUs" : false,
+    "AvailableUserLocales" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:22.538",
+      "LocaleId" : {
+        "LocaleId" : "de"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:22.538",
+      "ContextId" : "46ac36c1-84d5-4d3c-bced-6b97c67ead23",
+      "ParentUser" : {
+        "PK" : 6107247424451215756
+      },
+      "Process" : null,
+      "PK" : "6107247425381238930",
+      "Unique_Identifier" : "6107247425381238930"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:22.538",
+      "LocaleId" : {
+        "LocaleId" : "es"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:22.538",
+      "ContextId" : "46ac36c1-84d5-4d3c-bced-6b97c67ead23",
+      "ParentUser" : {
+        "PK" : 6107247424451215756
+      },
+      "Process" : null,
+      "PK" : "6107247425381246537",
+      "Unique_Identifier" : "6107247425381246537"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:22.539",
+      "LocaleId" : {
+        "LocaleId" : "fr"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:22.539",
+      "ContextId" : "46ac36c1-84d5-4d3c-bced-6b97c67ead23",
+      "ParentUser" : {
+        "PK" : 6107247424451215756
+      },
+      "Process" : null,
+      "PK" : "6107247425391255364",
+      "Unique_Identifier" : "6107247425391255364"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:32:22.539",
+      "LocaleId" : {
+        "LocaleId" : "zh"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:32:22.539",
+      "ContextId" : "46ac36c1-84d5-4d3c-bced-6b97c67ead23",
+      "ParentUser" : {
+        "PK" : 6107247424451215756
+      },
+      "Process" : null,
+      "PK" : "6107247425391267440",
+      "Unique_Identifier" : "6107247425391267440"
+    } ],
+    "Unique_Identifier" : "6107247424451215756__u4@fb-canada-s"
+  } ],
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-organization:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "cab3009d57db",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

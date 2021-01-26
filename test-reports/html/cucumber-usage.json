@@ -1,0 +1,149 @@
+[
+  {
+    "source": "login to (.*) as (.*) and (.*)",
+    "steps": [
+      {
+        "name": "login to ${org.sif-Child-Kering-B1-IT} as admin@${org.sif-Child-Kering-B1-IT} and ${sif.user.password}",
+        "aggregatedDurations": {
+          "average": 0.6228492,
+          "median": 0.6228492
+        },
+        "durations": [
+          {
+            "duration": 0.6228492,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:49"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the (.*) with following data is persisted",
+    "steps": [
+      {
+        "name": "the Role with following data is persisted",
+        "aggregatedDurations": {
+          "average": 0.5228441,
+          "median": 0.5228441
+        },
+        "durations": [
+          {
+            "duration": 0.5228441,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "the Grant with following data is persisted",
+        "aggregatedDurations": {
+          "average": 0.502297,
+          "median": 0.502297
+        },
+        "durations": [
+          {
+            "duration": 0.502297,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:15"
+          }
+        ]
+      },
+      {
+        "name": "the User with following data is persisted",
+        "aggregatedDurations": {
+          "average": 4.6525518,
+          "median": 4.6525518
+        },
+        "durations": [
+          {
+            "duration": 4.6525518,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:37"
+          }
+        ]
+      },
+      {
+        "name": "the UserRole with following data is persisted",
+        "aggregatedDurations": {
+          "average": 0.3814479,
+          "median": 0.3814479
+        },
+        "durations": [
+          {
+            "duration": 0.3814479,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:43"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the (.*) with following details",
+    "steps": [
+      {
+        "name": "the Location with following details",
+        "aggregatedDurations": {
+          "average": 0.0024443,
+          "median": 0.0024443
+        },
+        "durations": [
+          {
+            "duration": 0.0024443,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:51"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "generate random number variables",
+    "steps": [
+      {
+        "name": "generate random number variables",
+        "aggregatedDurations": {
+          "average": 0.000162,
+          "median": 0.000162
+        },
+        "durations": [
+          {
+            "duration": 0.000162,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "the (.*) in the (.*) with following information",
+    "steps": [
+      {
+        "name": "the LocationContact in the Location with following information",
+        "aggregatedDurations": {
+          "average": 0.1309958,
+          "median": 0.1309958
+        },
+        "durations": [
+          {
+            "duration": 0.1309958,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "login as super user",
+    "steps": [
+      {
+        "name": "login as super user",
+        "aggregatedDurations": {
+          "average": 2.0669047,
+          "median": 2.0669047
+        },
+        "durations": [
+          {
+            "duration": 2.0669047,
+            "location": "sif.demo-org/003-customer-pickup-e2e.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "DateOfBirth" : "1980-06-10",
+  "IdentityType" : {
+    "IdentityTypeId" : "Database",
+    "IdentityTypeName" : "Database"
+  },
+  "PrimaryOrgId" : "Kering12-B1-IT",
+  "UserName" : "strassociate111668@Kering12-B1-IT.com",
+  "Address" : {
+    "Email" : "orgadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "GA",
+    "Phone" : "(770) 955-7070",
+    "Address2" : "10th Floor",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300 Windy Ridge Pkwy",
+    "City" : "Atlanta"
+  },
+  "IsActive" : true,
+  "Gender" : "Male",
+  "UserTimeZone" : "US/Eastern",
+  "UserId" : "strassociate111668@Kering12-B1-IT.com",
+  "UserPin" : [ {
+    "Pin" : "Password!123"
+  } ],
+  "Email2" : "mg@gmail.com",
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "AvailableUserLocales" : [ {
+    "LocaleId" : {
+      "LocaleId" : "de"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "es"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    }
+  } ],
+  "Password" : "Password2@"
+}

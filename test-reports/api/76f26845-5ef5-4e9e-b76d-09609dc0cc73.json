@@ -1,0 +1,10 @@
+{
+  "Data" : [ {
+    "FulfillmentReasonName" : "Item not available across stores",
+    "FulfillmentReasonDesc" : "Item not available across stores",
+    "FulfillmentReasonId" : "5000.000",
+    "FulfillmentReasonTypeId" : {
+      "FulfillmentReasonTypeId" : "1000.000"
+    }
+  } ]
+}

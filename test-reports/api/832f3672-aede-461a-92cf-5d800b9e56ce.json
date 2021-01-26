@@ -1,0 +1,12 @@
+{
+  "Data" : [ {
+    "LocationTypeId" : "Stores",
+    "LocationId" : "STR1-11668",
+    "LocationProcessingTime" : "1.0",
+    "DisplayId" : "STR1-11668",
+    "LocationStatusId" : "1",
+    "LaborCost" : "3.0",
+    "CapacityUtilizationLevel" : "order",
+    "LocationName" : "STR1-11668"
+  } ]
+}

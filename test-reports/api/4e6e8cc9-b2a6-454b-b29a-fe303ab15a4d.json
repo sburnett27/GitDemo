@@ -1,0 +1,137 @@
+{
+  "CreatedTimestamp" : "2021-01-15T15:32:23.774",
+  "Address" : {
+    "Email" : "supplychainadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "Georgia",
+    "Phone" : null,
+    "Address2" : "Windy Ridge Parkway",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300",
+    "City" : "Atlanta",
+    "County" : null
+  },
+  "IsActive" : true,
+  "OrgUser" : [ ],
+  "Extended" : {
+    "ExtendedAttr1" : null,
+    "ExtendedAttr4" : null,
+    "ExtendedAttr5" : null,
+    "ExtendedAttr2" : null,
+    "ExtendedAttr3" : null
+  },
+  "Process" : null,
+  "Gender" : null,
+  "StartDate" : null,
+  "UpdatedBy" : "systemadmin@system.com",
+  "UserTimeZone" : "US/Eastern",
+  "UserLocation" : [ ],
+  "UserPin" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:23.775",
+    "User" : null,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:23.775",
+    "UserId" : "u5@fb-brand2-canada-s",
+    "ContextId" : "2d157b72-e56f-4a15-bbda-aae4cc4928d8",
+    "Process" : null,
+    "PK" : "6107247437751295424",
+    "Unique_Identifier" : "6107247437751295424__u5@fb-brand2-canada-s"
+  } ],
+  "Email2" : null,
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "PasswordExpiry" : null,
+  "DateOfBirth" : null,
+  "UserLoginHistory" : [ ],
+  "IdentityType" : {
+    "IdentityTypeId" : "Database"
+  },
+  "UpdatedTimestamp" : "2021-01-15T15:32:23.774",
+  "PrimaryOrgId" : "FB-BRAND2-CANADA-S",
+  "Messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "CreatedBy" : "systemadmin@system.com",
+  "UserBusinessUnit" : [ ],
+  "MustClock" : false,
+  "FirstName" : null,
+  "ImageUrl" : null,
+  "EndDate" : null,
+  "UserDefaults" : [ ],
+  "UserId" : "u5@fb-brand2-canada-s",
+  "ContextId" : "2d157b72-e56f-4a15-bbda-aae4cc4928d8",
+  "LastName" : null,
+  "PK" : "6107247437741286778",
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "HasAccessToAllBUs" : false,
+  "AvailableUserLocales" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:23.868",
+    "LocaleId" : {
+      "LocaleId" : "de"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:23.868",
+    "ContextId" : "2d157b72-e56f-4a15-bbda-aae4cc4928d8",
+    "ParentUser" : {
+      "PK" : 6107247437741286778
+    },
+    "Process" : null,
+    "PK" : "6107247438681304529",
+    "Unique_Identifier" : "6107247438681304529"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:23.868",
+    "LocaleId" : {
+      "LocaleId" : "es"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:23.868",
+    "ContextId" : "2d157b72-e56f-4a15-bbda-aae4cc4928d8",
+    "ParentUser" : {
+      "PK" : 6107247437741286778
+    },
+    "Process" : null,
+    "PK" : "6107247438681312001",
+    "Unique_Identifier" : "6107247438681312001"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:23.869",
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:23.869",
+    "ContextId" : "2d157b72-e56f-4a15-bbda-aae4cc4928d8",
+    "ParentUser" : {
+      "PK" : 6107247437741286778
+    },
+    "Process" : null,
+    "PK" : "6107247438691324267",
+    "Unique_Identifier" : "6107247438691324267"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:23.869",
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:23.869",
+    "ContextId" : "2d157b72-e56f-4a15-bbda-aae4cc4928d8",
+    "ParentUser" : {
+      "PK" : 6107247437741286778
+    },
+    "Process" : null,
+    "PK" : "6107247438691336137",
+    "Unique_Identifier" : "6107247438691336137"
+  } ],
+  "Unique_Identifier" : "6107247437741286778__u5@fb-brand2-canada-s"
+}

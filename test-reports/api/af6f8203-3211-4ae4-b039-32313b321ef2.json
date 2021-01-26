@@ -1,0 +1,12 @@
+{
+  "IsActive" : true,
+  "OrganizationId" : "FB-BRAND1-CANADA-S",
+  "ProvisioningProfileDetail" : [ {
+    "ProfileId" : "Profile-STR5-FB-BRAND1-CANADA-S",
+    "StoreProfileTypeId" : null,
+    "OwnedByOrg" : "FB-BRAND1-CANADA-S",
+    "LocationId" : "STR5-FB-BRAND1-CANADA-S",
+    "ProfilePurposeId" : "ppo::locationLayout"
+  } ],
+  "ProvisioningProfileId" : "FB-BRAND1-CANADA-S"
+}

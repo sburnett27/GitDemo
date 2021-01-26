@@ -1,0 +1,42 @@
+{
+  "Data" : [ {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-US-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S"
+  }, {
+    "UserId" : "mgr@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S"
+  }, {
+    "UserId" : "u1@FB-BRAND1-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-US-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S"
+  }, {
+    "UserId" : "u3@FB-BRAND1-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S"
+  }, {
+    "UserId" : "u4@FB-CANADA-S",
+    "OrganizationId" : "FB-CANADA-S"
+  }, {
+    "UserId" : "u4@FB-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S"
+  }, {
+    "UserId" : "u4@FB-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S"
+  }, {
+    "UserId" : "u5@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S"
+  } ]
+}

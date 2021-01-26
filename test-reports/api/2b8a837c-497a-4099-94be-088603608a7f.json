@@ -1,0 +1,10 @@
+{
+  "ItemCode" : [ {
+    "Type" : "UPC_Primary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Primary"
+    },
+    "Value" : "11111111004"
+  } ],
+  "ItemId" : "TSSrB1"
+}

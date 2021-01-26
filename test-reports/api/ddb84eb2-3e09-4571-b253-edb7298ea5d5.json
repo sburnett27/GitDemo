@@ -1,0 +1,10 @@
+{
+  "Media" : [ {
+    "MediaId" : "1",
+    "MediaSizeId" : "small image",
+    "MimeTypeId" : ".jpg",
+    "Sequence" : "1",
+    "URI" : "https://res.cloudinary.com/manhpoc/image/upload/v1532531438/sifimages/BBDE_1.jpg"
+  } ],
+  "ItemId" : "BBDE"
+}

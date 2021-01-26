@@ -1,0 +1,40 @@
+{
+  "ManufacturingAttribute" : [ {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "US",
+    "VendorStyleNumber" : "S1",
+    "Upc" : "2121211001",
+    "VendorLocationId" : "USLOC1"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "US",
+    "VendorStyleNumber" : "S2",
+    "Upc" : "3131311001",
+    "VendorLocationId" : "USLOC2"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "UK",
+    "VendorStyleNumber" : "S3",
+    "Upc" : "4141411001",
+    "VendorLocationId" : "UKLOC1"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "UK",
+    "VendorStyleNumber" : "S4",
+    "Upc" : "5151511001",
+    "VendorLocationId" : "UKLOC2"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "CN",
+    "VendorStyleNumber" : "S5",
+    "Upc" : "6161611001",
+    "VendorLocationId" : "CNLOC1"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "CN",
+    "VendorStyleNumber" : "S6",
+    "Upc" : "7171711001",
+    "VendorLocationId" : "CNLOC2"
+  } ],
+  "ItemId" : "CSFSWPP"
+}

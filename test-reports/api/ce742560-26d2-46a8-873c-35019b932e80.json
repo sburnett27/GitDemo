@@ -1,0 +1,18 @@
+{
+  "Data" : [ {
+    "UserId" : "strmgr77262@Kering12-B1-IT.com",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr",
+    "RoleOrgId" : "Kering12-B1-IT"
+  }, {
+    "UserId" : "strassociate177262@Kering12-B1-IT.com",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate",
+    "RoleOrgId" : "Kering12-B1-IT"
+  }, {
+    "UserId" : "strassociate277262@Kering12-B1-IT.com",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate",
+    "RoleOrgId" : "Kering12-B1-IT"
+  } ]
+}

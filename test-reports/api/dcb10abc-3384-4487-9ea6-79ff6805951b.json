@@ -1,0 +1,55 @@
+{
+  "Data" : [ {
+    "IsParcelShippingAllowed" : "true",
+    "Description" : "Ground Desc",
+    "ShippingMethodShipVia" : {
+      "Description" : "Shipping method for Ship Via - FedEx Ground",
+      "ShipViaId" : "SV-FedEx Ground",
+      "ShipViaRank" : "1"
+    },
+    "IsAirShippingAllowed" : "false",
+    "IsReturnShippingMethod" : "false",
+    "IsFrozenShippingAllowed" : "true",
+    "ShippingMethodId" : "Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "IsParcelShippingAllowed" : "true",
+    "Description" : "Ground Desc",
+    "ShippingMethodShipVia" : {
+      "Description" : "Shipping method for Ship Via - SV-UPS Ground",
+      "ShipViaId" : "SV-UPS Ground",
+      "ShipViaRank" : "2"
+    },
+    "IsAirShippingAllowed" : "false",
+    "IsReturnShippingMethod" : "false",
+    "IsFrozenShippingAllowed" : "true",
+    "ShippingMethodId" : "Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "IsParcelShippingAllowed" : "true",
+    "Description" : "Next Day Desc",
+    "ShippingMethodShipVia" : {
+      "Description" : "Shipping method for Ship Via - Next Day Air",
+      "ShipViaId" : "SV-UPS NEXT DAY AIR",
+      "ShipViaRank" : "1"
+    },
+    "IsAirShippingAllowed" : "true",
+    "IsReturnShippingMethod" : "false",
+    "IsFrozenShippingAllowed" : "true",
+    "ShippingMethodId" : "Next Day",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "IsParcelShippingAllowed" : "true",
+    "Description" : "Next Day Desc",
+    "ShippingMethodShipVia" : {
+      "Description" : "Shipping method for Ship Via - Next Day Freight",
+      "ShipViaId" : "SV-UPS NEXT DAY Freight",
+      "ShipViaRank" : "2"
+    },
+    "IsAirShippingAllowed" : "true",
+    "IsReturnShippingMethod" : "false",
+    "IsFrozenShippingAllowed" : "true",
+    "ShippingMethodId" : "Next Day",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

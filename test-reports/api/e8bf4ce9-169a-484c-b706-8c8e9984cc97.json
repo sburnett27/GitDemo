@@ -1,0 +1,726 @@
+{
+  "Data" : [ {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "DC1-FB-US-S",
+    "DisplayId" : "DC1-FB-US-S DC",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-US-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-US-S }",
+      "FirstName" : "DC1",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "DC1",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'DC1-FB-US-S'"
+      }
+    } ],
+    "LocationName" : "Store-DC1-FB-US-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-US-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "DC2-FB-US-S",
+    "DisplayId" : "DC2-FB-US-S DC",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-US-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-US-S }",
+      "FirstName" : "DC2",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "DC1",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'DC2-FB-US-S'"
+      }
+    } ],
+    "LocationName" : "Store-DC2-FB-US-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-US-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR1-FB-BRAND1-US-S",
+    "DisplayId" : "STR1-FB-BRAND1-US-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND1-US-S",
+      "FirstName" : "Store",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR1-FB-BRAND1-US-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR1-FB-BRAND1-US-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND1-US-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR2-FB-BRAND1-US-S",
+    "DisplayId" : "STR2-FB-BRAND1-US-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND1-US-S",
+      "FirstName" : "Store2",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate2",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR2-FB-BRAND1-US-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR2-FB-BRAND1-US-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND1-US-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR3-FB-BRAND2-US-S",
+    "DisplayId" : "STR3-FB-BRAND2-US-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND2-US-S",
+      "FirstName" : "Store3",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate3",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR3-FB-BRAND2-US-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR3-FB-BRAND2-US-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND2-US-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR4-FB-BRAND2-US-S",
+    "DisplayId" : "STR4-FB-BRAND2-US-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND2-US-S",
+      "FirstName" : "Store4",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate4",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR4-FB-BRAND2-US-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR4-FB-BRAND2-US-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND2-US-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR5-FB-BRAND1-CANADA-S",
+    "DisplayId" : "STR5-FB-BRAND1-CANADA-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND1-CANADA-S",
+      "FirstName" : "Store5",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate5",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR5-FB-BRAND1-CANADA-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR5-FB-BRAND1-CANADA-S",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND1-CANADA-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR6-FB-BRAND1-CANADA-S",
+    "DisplayId" : "STR6-FB-BRAND1-CANADA-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND1-CANADA-S",
+      "FirstName" : "Store6",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate6",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR6-FB-BRAND1-CANADA-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR6-FB-BRAND1-CANADA-S",
+    "StoreProfileType" : {
+      "StoreProfileTypeId" : "Outlet"
+    },
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND1-CANADA-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR7-FB-BRAND2-CANADA-S",
+    "DisplayId" : "STR7-FB-BRAND2-CANADA-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND2-CANADA-S",
+      "FirstName" : "Store7",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate7",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR7-FB-BRAND2-CANADA-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR7-FB-BRAND2-CANADA-S",
+    "StoreProfileType" : {
+      "StoreProfileTypeId" : "Outlet"
+    },
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND2-CANADA-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR8-FB-BRAND2-CANADA-S",
+    "DisplayId" : "STR8-FB-BRAND2-CANADA-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND2-CANADA-S",
+      "FirstName" : "Store8",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate8",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR8-FB-BRAND2-CANADA-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR8-FB-BRAND2-CANADA-S",
+    "StoreProfileType" : {
+      "StoreProfileTypeId" : "Mall"
+    },
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND2-CANADA-S"
+  }, {
+    "Address" : {
+      "Email" : "",
+      "FirstName" : "",
+      "State" : "NC",
+      "Phone" : "2815551212",
+      "Address2" : null,
+      "Address3" : null,
+      "PostalCode" : "28211",
+      "Country" : "US",
+      "LastName" : "",
+      "Address1" : "284 Bald Hill Court",
+      "City" : "Princeton",
+      "County" : null
+    },
+    "LocationId" : "STR9-FB-BRAND2-CANADA-S",
+    "DisplayId" : "STR9-FB-BRAND2-CANADA-S Store",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "1",
+      "Email" : "storeuser@FB-BRAND2-CANADA-S",
+      "FirstName" : "Store9",
+      "PhoneNumber" : "(678) 597 7070",
+      "LastName" : "Associate9",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Shipping"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR9-FB-BRAND2-CANADA-S'"
+      }
+    } ],
+    "LocationName" : "Store-STR9-FB-BRAND2-CANADA-S",
+    "StoreProfileType" : {
+      "StoreProfileTypeId" : "Outlet"
+    },
+    "LocationSubType" : {
+      "LocationSubTypeId" : "ECommerceDC"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "FB-BRAND2-CANADA-S"
+  } ]
+}

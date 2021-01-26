@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+         table {
+         font-family: calibri, arial, sans-serif;
+         border-collapse: collapse;
+         width: 100%;
+         font-size: 1vw;
+         }
+
+         th {
+         background-color: #3CB371;
+         }
+
+         td, th {
+         text-align: left;
+         padding: 8px;
+         }
+
+         tr:nth-child(even) {
+         background-color: #dddddd;
+         }
+
+         #searchInput {
+         width: 60%;
+         font-size: 16px;
+         padding: 12px 20px 12px 40px;
+         border: 1px solid #ddd;
+         margin-bottom: 12px;
+         }
+
+
+
+
+    </style>
+    <script>
+         function search() {
+           var input, filter, table, tr, td, i;
+           input = document.getElementById("searchInput");
+           filter = input.value.toUpperCase();
+           table = document.getElementById("results");
+           tr = table.getElementsByTagName("tr");
+           for (i = 0; i < tr.length; i++) {
+             td = tr[i].getElementsByTagName("td")[1];
+             if (td) {
+               if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                 tr[i].style.display = "";
+               } else {
+                 tr[i].style.display = "none";
+               }
+             }
+           }
+         }
+
+
+
+
+    </script>
+</head>
+<body>
+<h2>API Requests/Responses</h2>
+<input type="text" id="searchInput" onkeyup="search()" placeholder="Search for scenarios.."
+       title="Type in a scenario name">
+<table id="results">
+    <tr>
+        <th>Feature</th>
+        <th>Scenario</th>
+        <th>Step</th>
+        <th>URL</th>
+        <th>Trace Id</th>
+        <th>Status</th>
+        <th>Request</th>
+        <th>Response</th>
+        <th>Time Taken(ms)</th>
+    </tr>
+    <tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>login as super user</td><td>https://auth-dev.om.manh.cloud/oauth/token</td><td>3d79c9b4a5bd33e0</td><td style="color:#009688">200</td><td><a href='83510164-1e3f-4f72-977f-f5e8b915a8a2.json' target="_blank">Open</a></td><td><a href='36ac2a1b-5105-4a12-bca1-8aa55c679f18.json' target="_blank">Open</a></td><td>898</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the Role with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/role/import</td><td>8ff09b15ce001b31</td><td style="color:#009688">200</td><td><a href='e8615652-ed37-40b0-84bd-e515d069acac.json' target="_blank">Open</a></td><td></td><td>488</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the Grant with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/grant/import</td><td>d3b04bff2da3361a</td><td style="color:#009688">200</td><td><a href='6935e8c6-5b3c-4f39-b9a9-1431ece08bd7.json' target="_blank">Open</a></td><td></td><td>455</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user?query="UserId = 'strmgr77262@Kering12-B1-IT.com'"</td><td>ad93ad1ba2a436e9</td><td style="color:#009688">200</td><td></td><td><a href='e68f4888-9c73-4e32-959c-4e9bd8cdafd7.json' target="_blank">Open</a></td><td>296</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user/save</td><td>b0a866445ced53ca</td><td style="color:#009688">200</td><td><a href='0a9a82f4-2320-4d48-8d30-f6d866596aab.json' target="_blank">Open</a></td><td><a href='39fc8b07-7f6d-4329-8f4d-4c0804b73c57.json' target="_blank">Open</a></td><td>603</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user?query="UserId = 'strmgr77262@kering12-b1-it.com'"</td><td>0115f33114564441</td><td style="color:#009688">200</td><td></td><td><a href='e19d824a-ad75-433d-b6c5-f66560daab30.json' target="_blank">Open</a></td><td>262</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user/save</td><td>8ee8367598db6707</td><td style="color:#009688">200</td><td><a href='0ba569cb-68dc-450a-ae06-202f60abcf20.json' target="_blank">Open</a></td><td><a href='5d634621-8371-4d7c-b274-331500442594.json' target="_blank">Open</a></td><td>361</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user?query="UserId = 'strassociate177262@Kering12-B1-IT.com'"</td><td>626b759365093a5c</td><td style="color:#009688">200</td><td></td><td><a href='a2c46086-5d9c-40bf-93ab-98b2c31a02c1.json' target="_blank">Open</a></td><td>249</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user/save</td><td>87fec1604aacb448</td><td style="color:#009688">200</td><td><a href='ad56c23b-19fe-479d-96e5-4a6235c27931.json' target="_blank">Open</a></td><td><a href='b21cdbb4-7806-480e-9e36-05d5527c10f5.json' target="_blank">Open</a></td><td>527</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user?query="UserId = 'strassociate177262@kering12-b1-it.com'"</td><td>e052e798c84cafcc</td><td style="color:#009688">200</td><td></td><td><a href='17d6c01e-8692-4338-ba73-4e228bac1ce6.json' target="_blank">Open</a></td><td>247</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user/save</td><td>2ee8789bb6b07959</td><td style="color:#009688">200</td><td><a href='b8b691b9-2ba1-48c9-8fdd-fd9b3f010f2b.json' target="_blank">Open</a></td><td><a href='d5b06dc2-94a1-4c9d-bacf-900d6231d2c3.json' target="_blank">Open</a></td><td>315</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user?query="UserId = 'strassociate277262@Kering12-B1-IT.com'"</td><td>ee41e56fccde2e85</td><td style="color:#009688">200</td><td></td><td><a href='a1061134-80ab-43a7-bce0-ddd37386df87.json' target="_blank">Open</a></td><td>247</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user/save</td><td>050afa08e872e4fc</td><td style="color:#009688">200</td><td><a href='73361fd0-983a-4628-804a-3a6b22bbf487.json' target="_blank">Open</a></td><td><a href='dfd449a9-57d6-4193-941e-5cf709da7066.json' target="_blank">Open</a></td><td>558</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user?query="UserId = 'strassociate277262@kering12-b1-it.com'"</td><td>13c737c8afe1ccb4</td><td style="color:#009688">200</td><td></td><td><a href='54133e84-aa20-42a5-afa4-6fe57667c424.json' target="_blank">Open</a></td><td>266</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the User with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/user/save</td><td>3bacd449d346c164</td><td style="color:#009688">200</td><td><a href='a099f47b-b661-482b-9b95-a1d12b748649.json' target="_blank">Open</a></td><td><a href='28ce0e44-cdb5-4ee1-b8f6-d92a3ca8b868.json' target="_blank">Open</a></td><td>316</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the UserRole with following data is persisted</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/userRole/import</td><td>7d6a605a6a4bff36</td><td style="color:#009688">200</td><td><a href='ce742560-26d2-46a8-873c-35019b932e80.json' target="_blank">Open</a></td><td></td><td>357</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>login to ${org.sif-Child-Kering-B1-IT} as admin@${org.sif-Child-Kering-B1-IT} and ${sif.user.password}</td><td>https://auth-dev.om.manh.cloud/oauth/token</td><td>d12507318a71ae16</td><td style="color:#009688">200</td><td><a href='3330857c-be8d-4e0a-9c49-47a01b54265c.json' target="_blank">Open</a></td><td><a href='db71ec3f-6e12-45ae-a2cf-406e0133cd2a.json' target="_blank">Open</a></td><td>592</td></tr><tr><td>customer-pickup-e2e-flow</td><td>Customer Pickup E2E Flow</td><td>the Location is saved</td><td>https://omni-dev.om.manh.cloud/organization/api/organization/location/import</td><td>edf15b462969eebb</td><td style="background-color:#F44336">500</td><td><a href='e835ede0-549d-4eef-8f8f-8811c54818c0.json' target="_blank">Open</a></td><td><a href='d5080fbd-dc17-46e2-b78f-2762d50f3adc.json' target="_blank">Open</a></td><td>400</td></tr>
+<!-- this file is intentionally left without closing tags--></table>
+</body>
+</html>

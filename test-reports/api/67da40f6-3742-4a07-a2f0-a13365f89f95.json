@@ -1,0 +1,135 @@
+{
+  "Data" : [ {
+    "AccessorialCode" : "COD",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "DRY_ICE",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "SATURDAY_DELIVERY",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "SATURDAY_PICKUP",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "ADULT_SIGNATURE",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "DIRECT_SIGNATURE",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INDIRECT_SIGNATURE",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "ADDITIONAL_HANDLING",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "OVERSIZE",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "LARGE_PACKAGE",
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "NO_SIGNATURE",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "COD",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "SATURDAY_DELIVERY",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "SATURDAY_PICKUP",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "ADULT_SIGNATURE",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "DIRECT_SIGNATURE",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INDIRECT_SIGNATURE",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INSIDE_DELIVERY",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INSIDE_PICKUP",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "NON_STANDARD_CONTAINER",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "DRY_ICE",
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "COD",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "SATURDAY_DELIVERY",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "SATURDAY_PICKUP",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "ADULT_SIGNATURE",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "DIRECT_SIGNATURE",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INDIRECT_SIGNATURE",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "APPOINTMENT_DELIVERY",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INSIDE_DELIVERY",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "INSIDE_PICKUP",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "NO_SIGNATURE",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "NON_STANDARD_CONTAINER",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "AccessorialCode" : "DRY_ICE",
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

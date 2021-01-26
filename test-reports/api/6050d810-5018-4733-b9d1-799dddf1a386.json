@@ -1,0 +1,353 @@
+{
+  "Data" : [ {
+    "ServiceLevelMappingCode" : "FEDEX_1_DAY_FREIGHT",
+    "ServiceLevelCode" : "SL-FedEx 1 Day Freight",
+    "Description" : "FedEx 1Day Freight Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Freight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FEDEX_2_DAY",
+    "ServiceLevelCode" : "SL-FedEx 2 Day",
+    "Description" : "FedEx 2Day Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FIRST_OVERNIGHT",
+    "ServiceLevelCode" : "SL-FedEx First Overnight",
+    "Description" : "FedEx First Overnight Desc",
+    "isAirShippingAllowed" : "isAirShippingAllowed: true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FEDEX_GROUND",
+    "ServiceLevelCode" : "SL-FedEx Ground",
+    "Description" : "FedEx Ground Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "GROUND_HOME_DELIVERY",
+    "ServiceLevelCode" : "SL-Ground Home Delivery",
+    "Description" : "FedEx Home Delivery Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FEDEX_FREIGHT_ECONOMY",
+    "ServiceLevelCode" : "SL-FedEx Freight Economy",
+    "Description" : "FedEx Freight Economy Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Freight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FEDEX_FREIGHT_PRIORITY",
+    "ServiceLevelCode" : "SL-FedEx Freight Priority",
+    "Description" : "FedEx Freight Priority Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Freight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "01",
+    "ServiceLevelCode" : "SL-UPS NEXT DAY AIR",
+    "Description" : "UPS Next Day Air Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "03",
+    "ServiceLevelCode" : "SL-UPS Ground",
+    "Description" : "UPS Ground Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "11",
+    "ServiceLevelCode" : "SL-UPS Standard",
+    "Description" : "UPS Standard Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "07",
+    "ServiceLevelCode" : "SL-Worldwide Express",
+    "Description" : "UPS Worldwide Express Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "12",
+    "ServiceLevelCode" : "SL-Three Day Select",
+    "Description" : "UPS Three Day Select Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "65",
+    "ServiceLevelCode" : "SL-UPS Saver",
+    "Description" : "UPS Saver Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "95",
+    "ServiceLevelCode" : "SL-UPS Surepost Media",
+    "Description" : "UPS Surepost Media Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "373",
+    "ServiceLevelCode" : "Agile FedEx First Overnight",
+    "Description" : "Agile FedEx First Overnight Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_FedEx",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "374",
+    "ServiceLevelCode" : "Agile FedEx 2 Day",
+    "Description" : "Agile FedEx 2 Day Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_FedEx",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "375",
+    "ServiceLevelCode" : "Agile FedEx Express Saver",
+    "Description" : "Agile FedEx Express Saver Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_FedEx",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "378",
+    "ServiceLevelCode" : "Agile FedEx International Economy",
+    "Description" : "Agile FedEx International Economy Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_FedEx",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "23",
+    "ServiceLevelCode" : "Agile UPS Next Day Air",
+    "Description" : "Agile UPS Next Day Air Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_UPS",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "25",
+    "ServiceLevelCode" : "Agile UPS Ground",
+    "Description" : "Agile UPS Ground Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_UPS",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "26",
+    "ServiceLevelCode" : "Agile UPS Worldwide Express SM",
+    "Description" : "Agile UPS Worldwide Express SM Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_UPS",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "31",
+    "ServiceLevelCode" : "Agile UPS Next Day Air Early A.M.",
+    "Description" : "Agile UPS Next Day Air Early A.M. Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_UPS",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "14",
+    "ServiceLevelCode" : "UPS Next Day Air Early",
+    "Description" : "UPS Next Day Air Early Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "02",
+    "ServiceLevelCode" : "UPS 2 Day Air",
+    "Description" : "UPS 2 Day Air Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "13",
+    "ServiceLevelCode" : "UPS Next Day Air Saver",
+    "Description" : "UPS Next Day Air Saver Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "UPS Carrier",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FEDEX_2_DAY_AM",
+    "ServiceLevelCode" : "FedEx 2 Day AM",
+    "Description" : "FedEx 2 Day AM Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "PRIORITY_OVERNIGHT",
+    "ServiceLevelCode" : "FedEx Priority Overnight",
+    "Description" : "FedEx Priority Overnight Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "SMART_POST_PARCEL_RETURN",
+    "ServiceLevelCode" : "FedEx Smart Post Parcel Return",
+    "Description" : "FedEx Smart Post Parcel Return Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Smart Post",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "SMART_POST_PARCEL_SELECT",
+    "ServiceLevelCode" : "FedEx Smart Post Parcel Select",
+    "Description" : "FedEx Smart Post Parcel Select Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Smart Post",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "SMART_POST_PRESORTED_STANDARD",
+    "ServiceLevelCode" : "FedEx Smart Post Presorted Standard",
+    "Description" : "FedEx Smart Post Presorted Standard Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Smart Post",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "SMART_POST_MEDIA_MAIL",
+    "ServiceLevelCode" : "FedEx Smart Post Media Mail",
+    "Description" : "FedEx Smart Post Media Mail Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Smart Post",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "SMART_POST_PRESORTED_BOUND_PRINTED_MATTER",
+    "ServiceLevelCode" : "FedEx SP Presorted Bounded Printed Matter",
+    "Description" : "FedEx Smart Post Presorted Bounded Printed Matter Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Smart Post",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "STANDARD_OVERNIGHT",
+    "ServiceLevelCode" : "FedEx Standard Overnight",
+    "Description" : "FedEx Standard Overnight Desc",
+    "isAirShippingAllowed" : "true",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "FEDEX_EXPRESS_SAVER",
+    "ServiceLevelCode" : "FedEx Express Saver",
+    "Description" : "FedEx Express Saver Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "FedEx Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelMappingCode" : "117",
+    "ServiceLevelCode" : "Agile FedEx Ground",
+    "Description" : "Agile FedEx Ground Desc",
+    "isAirShippingAllowed" : "",
+    "Mode" : {
+      "ModeId" : "PCL"
+    },
+    "CarrierCode" : "Agile_FedEx",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

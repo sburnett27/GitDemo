@@ -1,0 +1,30 @@
+{
+  "IsActive" : true,
+  "OrganizationId" : "FB-BRAND1-US-S",
+  "ProvisioningProfileDetail" : [ {
+    "ProfileId" : "Profile-STR2-FB-BRAND1-US-S",
+    "StoreProfileTypeId" : null,
+    "OwnedByOrg" : "FB-BRAND1-US-S",
+    "LocationId" : "STR2-FB-BRAND1-US-S",
+    "ProfilePurposeId" : "ful::fulfillmentConfig"
+  }, {
+    "ProfileId" : "Profile-STR1-FB-BRAND1-US-S",
+    "StoreProfileTypeId" : null,
+    "OwnedByOrg" : "FB-BRAND1-US-S",
+    "LocationId" : "STR1-FB-BRAND1-US-S",
+    "ProfilePurposeId" : "ppo::locationLayout"
+  }, {
+    "ProfileId" : "Profile-STR2-FB-BRAND1-US-S",
+    "StoreProfileTypeId" : null,
+    "OwnedByOrg" : "FB-BRAND1-US-S",
+    "LocationId" : "STR2-FB-BRAND1-US-S",
+    "ProfilePurposeId" : "ppo::locationLayout"
+  }, {
+    "ProfileId" : "Profile-STR2-FB-BRAND1-US-S",
+    "StoreProfileTypeId" : null,
+    "OwnedByOrg" : "FB-BRAND1-US-S",
+    "LocationId" : "STR2-FB-BRAND1-US-S",
+    "ProfilePurposeId" : "sim::inventoryConfig"
+  } ],
+  "ProvisioningProfileId" : "FB-BRAND1-US-S"
+}

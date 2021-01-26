@@ -1,0 +1,16 @@
+{
+  "ItemCode" : [ {
+    "Type" : "UPC_Primary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Primary"
+    },
+    "Value" : "11111111004"
+  }, {
+    "Type" : "UPC_Secondary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Secondary"
+    },
+    "Value" : "33333331004"
+  } ],
+  "ItemId" : "TSSrB1"
+}

@@ -1,0 +1,23 @@
+{
+  "Data" : [ {
+    "RoleName" : "Store Manager",
+    "IsActive" : "true",
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined",
+      "RoleTypeName" : "User Defined Role",
+      "RoleTypeDescription" : "User Defined Role"
+    },
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "RoleName" : "Store Associate",
+    "IsActive" : "true",
+    "RoleType" : {
+      "RoleTypeId" : "UserDefined",
+      "RoleTypeName" : "User Defined Role",
+      "RoleTypeDescription" : "User Defined Role"
+    },
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  } ]
+}

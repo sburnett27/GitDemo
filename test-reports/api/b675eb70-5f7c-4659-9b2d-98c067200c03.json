@@ -1,0 +1,15 @@
+{
+  "Description" : "Envelope Desc",
+  "PackageTypeName" : "PT Envelope",
+  "Dimension" : {
+    "UOM" : {
+      "name" : "key",
+      "Code" : "IN"
+    },
+    "Length" : "20.1",
+    "Height" : "5.1",
+    "Width" : "10.1"
+  },
+  "PackageTypeId" : "PT-Envelope",
+  "ProvisioningProfileId" : "FB-US-S"
+}

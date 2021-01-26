@@ -1,0 +1,32 @@
+{
+  "TriggerKey" : "cancelAgedFulfillmentTriggerWithOpenStatus",
+  "TimeZone" : "GMT+5:30",
+  "JobTypeId" : "cancelAgedFulfillmentJob",
+  "CronExpression" : "0 0 0/1 1/1 * ? *",
+  "JobParameters" : [ {
+    "InputValue" : "Kering12-B1-IT",
+    "InputKey" : "OrganizationId"
+  }, {
+    "InputValue" : "select distinct fulfillmentEntity.fulfillmentId from FulfillmentEntity fulfillmentEntity where fulfillmentEntity.minStatusId=:StatusCode and fulfillmentEntity.maxStatusId=:StatusCode and fulfillmentEntity.createdTimestamp< SQL('(? - interval :noOfUnits :timeUnit)', CURRENT_TIMESTAMP) and fulfillmentEntity.shipFromLocationId in (:facilityIds)",
+    "InputKey" : "QueryString"
+  }, {
+    "InputValue" : "'STR1-11668'",
+    "InputKey" : "facilityIds"
+  }, {
+    "InputValue" : "'1000.000'",
+    "InputKey" : "StatusCode"
+  }, {
+    "InputValue" : "5000.000",
+    "InputKey" : "ReasonCode"
+  }, {
+    "InputValue" : "second",
+    "InputKey" : "timeUnit"
+  }, {
+    "InputValue" : "0",
+    "InputKey" : "noOfUnits"
+  }, {
+    "InputValue" : "2",
+    "InputKey" : "ChunkSize"
+  } ],
+  "JobScheduleId" : "cancelAgedFulfillmentJobWithOpenStatus"
+}

@@ -1,0 +1,68 @@
+{
+  "Data" : [ {
+    "Address" : {
+      "Email" : "dj@manh.com",
+      "FirstName" : "David",
+      "State" : "GA",
+      "Phone" : "(770) 955-7070",
+      "Address2" : "10th Floor",
+      "Address3" : null,
+      "PostalCode" : "30339",
+      "Country" : "US",
+      "LastName" : "James",
+      "Address1" : "2300 Windy Ridge Pkwy",
+      "City" : "Atlanta",
+      "County" : null
+    },
+    "LocationId" : "STR1-77262",
+    "DisplayId" : "STR1-77262",
+    "Latitude" : "33.8677",
+    "OrganizationId" : "Kering12-B1-IT",
+    "Longitude" : "-84.4645",
+    "LocationContact" : [ {
+      "LocationContactId" : "STR1-77262",
+      "Email" : "dj@manh.com",
+      "FirstName" : "David",
+      "PhoneNumber" : "(770) 955-7070",
+      "LastName" : "James",
+      "LocationContactType" : {
+        "LocationContactTypeId" : "Billing"
+      },
+      "Location" : {
+        "Criteria" : "LocationId == 'STR1-77262'"
+      }
+    } ],
+    "LocationName" : "STR-NorthPark",
+    "StoreProfileType" : null,
+    "LocationSubType" : {
+      "LocationSubTypeId" : "HighVolumeStore"
+    },
+    "LocationFulfillmentAttr" : {
+      "OhProcessingTime" : null,
+      "CanShipInternational" : false,
+      "ShipToStore" : "true",
+      "CanPerformMerge" : false,
+      "Process" : null,
+      "CanAcceptsReturns" : true,
+      "AcceptsReservations" : false,
+      "HasValueAddedServices" : true,
+      "PoProcessingTime" : null,
+      "IsDropShip" : false,
+      "ShipFromStore" : "true",
+      "AsnProcessingTime" : null,
+      "CanProcessHazmatItems" : false,
+      "PickupAtStore" : "true",
+      "AcceptsOnlineReturns" : true,
+      "GiftCardActivation" : true
+    },
+    "LocationStatus" : {
+      "LocationStatusId" : "Operational",
+      "LocationStatusID" : "Operational"
+    },
+    "LocationTimeZone" : "US/Eastern",
+    "LocationType" : {
+      "LocationTypeId" : "Store"
+    },
+    "ParentOrgId" : "Kering12-B1-IT"
+  } ]
+}

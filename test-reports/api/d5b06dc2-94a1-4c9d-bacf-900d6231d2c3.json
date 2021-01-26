@@ -1,0 +1,164 @@
+{
+  "success" : true,
+  "header" : null,
+  "data" : {
+    "Messages" : {
+      "Message" : [ ],
+      "Size" : 0
+    },
+    "CreatedTimestamp" : "2021-01-15T15:12:06.852",
+    "Address" : {
+      "FirstName" : "Manhattan Associates",
+      "LastName" : "Inc",
+      "Address1" : "2300 Windy Ridge Pkwy",
+      "Address2" : "10th Floor",
+      "Address3" : "10th Floor",
+      "City" : "Atlanta",
+      "State" : "GA",
+      "PostalCode" : "30339",
+      "County" : null,
+      "Country" : "US",
+      "Phone" : "(770) 955-7070",
+      "Email" : "orgadmin@manh.com"
+    },
+    "IsActive" : true,
+    "OrgUser" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:12:07.076",
+      "User" : {
+        "UserId" : "strassociate177262@kering12-b1-it.com"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:12:07.076",
+      "UserId" : "strassociate177262@kering12-b1-it.com",
+      "UserRole" : [ ],
+      "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+      "Process" : null,
+      "PK" : "6107235270753328677",
+      "OrganizationId" : "Kering12-B1-IT",
+      "Unique_Identifier" : "6107235270753328677__strassociate177262@kering12-b1-it.com__Kering12-B1-IT"
+    } ],
+    "Process" : null,
+    "Gender" : "Male",
+    "StartDate" : null,
+    "UpdatedBy" : "systemadmin@system.com",
+    "UserTimeZone" : "US/Eastern",
+    "UserLocation" : [ ],
+    "UserPin" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:12:06.853",
+      "User" : {
+        "UserId" : "strassociate177262@kering12-b1-it.com"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:12:06.853",
+      "UserId" : "strassociate177262@kering12-b1-it.com",
+      "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+      "Process" : null,
+      "PK" : "6107235268533272841",
+      "Unique_Identifier" : "6107235268533272841__strassociate177262@kering12-b1-it.com"
+    } ],
+    "Email2" : "mg@gmail.com",
+    "UserLocale" : {
+      "LocaleId" : "en"
+    },
+    "PasswordExpiry" : null,
+    "DateOfBirth" : "1980-06-10",
+    "UserLoginHistory" : [ ],
+    "IdentityType" : {
+      "IdentityTypeId" : "Database"
+    },
+    "UpdatedTimestamp" : "2021-01-15T15:12:06.852",
+    "PrimaryOrgId" : "Kering12-B1-IT",
+    "CreatedBy" : "systemadmin@system.com",
+    "UserBusinessUnit" : [ ],
+    "MustClock" : false,
+    "FirstName" : null,
+    "ImageUrl" : null,
+    "EndDate" : null,
+    "UserDefaults" : [ ],
+    "UserId" : "strassociate177262@kering12-b1-it.com",
+    "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+    "LastName" : null,
+    "PK" : "6107235268523262612",
+    "UserType" : {
+      "UserTypeId" : "Human"
+    },
+    "HasAccessToAllBUs" : false,
+    "AvailableUserLocales" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:12:06.964",
+      "LocaleId" : {
+        "LocaleId" : "de"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:12:06.964",
+      "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+      "ParentUser" : {
+        "PK" : 6107235268523262612
+      },
+      "Process" : null,
+      "PK" : "6107235269643281531",
+      "Unique_Identifier" : "6107235269643281531"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:12:06.965",
+      "LocaleId" : {
+        "LocaleId" : "es"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:12:06.965",
+      "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+      "ParentUser" : {
+        "PK" : 6107235268523262612
+      },
+      "Process" : null,
+      "PK" : "6107235269653296403",
+      "Unique_Identifier" : "6107235269653296403"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:12:06.965",
+      "LocaleId" : {
+        "LocaleId" : "fr"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:12:06.965",
+      "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+      "ParentUser" : {
+        "PK" : 6107235268523262612
+      },
+      "Process" : null,
+      "PK" : "6107235269653307507",
+      "Unique_Identifier" : "6107235269653307507"
+    }, {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:12:06.965",
+      "LocaleId" : {
+        "LocaleId" : "zh"
+      },
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:12:06.965",
+      "ContextId" : "165c3c13-d93b-4e57-93c3-8c7c968c7185",
+      "ParentUser" : {
+        "PK" : 6107235268523262612
+      },
+      "Process" : null,
+      "PK" : "6107235269653318325",
+      "Unique_Identifier" : "6107235269653318325"
+    } ],
+    "Unique_Identifier" : "6107235268523262612__strassociate177262@kering12-b1-it.com"
+  },
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-organization:docker,cloud,side,om-side:8080",
+  "cloudComponentHostName" : "c1a2c5cc041f",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

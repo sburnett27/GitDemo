@@ -1,0 +1,36 @@
+{
+  "Data" : [ {
+    "CurrencyCode" : "USD",
+    "BasePrice" : "22.5",
+    "BehaviorAfterEndDate" : "Ignore",
+    "EffectiveEndDate" : "2020-12-31T23:59",
+    "ListId" : "Default",
+    "PriceId" : "Item1-11668",
+    "Rank" : "1",
+    "ItemId" : "Item1-11668",
+    "EffectiveStartDate" : "2016-01-01T00:00",
+    "SellingPrice" : "15.13"
+  }, {
+    "CurrencyCode" : "USD",
+    "BasePrice" : "22.5",
+    "BehaviorAfterEndDate" : "Ignore",
+    "EffectiveEndDate" : "2020-12-31T23:59",
+    "ListId" : "Default",
+    "PriceId" : "Item2-11668",
+    "Rank" : "1",
+    "ItemId" : "Item2-11668",
+    "EffectiveStartDate" : "2016-01-01T00:00",
+    "SellingPrice" : "15.13"
+  }, {
+    "CurrencyCode" : "USD",
+    "BasePrice" : "22.5",
+    "BehaviorAfterEndDate" : "Ignore",
+    "EffectiveEndDate" : "2020-12-31T23:59",
+    "ListId" : "Default",
+    "PriceId" : "Item3-11668",
+    "Rank" : "1",
+    "ItemId" : "Item3-11668",
+    "EffectiveStartDate" : "2016-01-01T00:00",
+    "SellingPrice" : "15.13"
+  } ]
+}

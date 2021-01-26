@@ -1,0 +1,11 @@
+{
+  "Data" : [ {
+    "TypeName" : "Secondary UPC",
+    "Description" : "Represents Secondary UPC",
+    "CodeTypeId" : "UPC_Secondary"
+  }, {
+    "TypeName" : "Primary UPC",
+    "Description" : "Represents Primary UPC",
+    "CodeTypeId" : "UPC_Primary"
+  } ]
+}

@@ -1,0 +1,130 @@
+{
+  "CreatedTimestamp" : "2021-01-18T15:01:11.504",
+  "Address" : {
+    "Email" : "supplychainadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "Georgia",
+    "Phone" : null,
+    "Address2" : "Windy Ridge Parkway",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300",
+    "City" : "Atlanta",
+    "County" : null
+  },
+  "IsActive" : true,
+  "OrgUser" : [ ],
+  "Process" : null,
+  "Gender" : null,
+  "StartDate" : null,
+  "UpdatedBy" : "systemadmin@system.com",
+  "UserTimeZone" : "US/Eastern",
+  "UserLocation" : [ ],
+  "UserPin" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:01:11.506",
+    "User" : null,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:01:11.506",
+    "UserId" : "admin@five-below-s",
+    "ContextId" : "27165f2f-9478-463e-8344-20f0c2ec2690",
+    "Process" : null,
+    "PK" : "6109820715065308798",
+    "Unique_Identifier" : "6109820715065308798__admin@five-below-s"
+  } ],
+  "Email2" : null,
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "PasswordExpiry" : null,
+  "DateOfBirth" : null,
+  "UserLoginHistory" : [ ],
+  "IdentityType" : {
+    "IdentityTypeId" : "Database"
+  },
+  "UpdatedTimestamp" : "2021-01-18T15:01:11.504",
+  "PrimaryOrgId" : "Five-Below-S",
+  "Messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "CreatedBy" : "systemadmin@system.com",
+  "UserBusinessUnit" : [ ],
+  "MustClock" : false,
+  "FirstName" : null,
+  "ImageUrl" : null,
+  "EndDate" : null,
+  "UserDefaults" : [ ],
+  "UserId" : "admin@five-below-s",
+  "ContextId" : "27165f2f-9478-463e-8344-20f0c2ec2690",
+  "LastName" : null,
+  "PK" : "6109820715045292380",
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "HasAccessToAllBUs" : false,
+  "AvailableUserLocales" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:01:11.599",
+    "LocaleId" : {
+      "LocaleId" : "de"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:01:11.599",
+    "ContextId" : "27165f2f-9478-463e-8344-20f0c2ec2690",
+    "ParentUser" : {
+      "PK" : 6109820715045292380
+    },
+    "Process" : null,
+    "PK" : "6109820715995312345",
+    "Unique_Identifier" : "6109820715995312345"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:01:11.599",
+    "LocaleId" : {
+      "LocaleId" : "es"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:01:11.599",
+    "ContextId" : "27165f2f-9478-463e-8344-20f0c2ec2690",
+    "ParentUser" : {
+      "PK" : 6109820715045292380
+    },
+    "Process" : null,
+    "PK" : "6109820715995323569",
+    "Unique_Identifier" : "6109820715995323569"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:01:11.599",
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:01:11.599",
+    "ContextId" : "27165f2f-9478-463e-8344-20f0c2ec2690",
+    "ParentUser" : {
+      "PK" : 6109820715045292380
+    },
+    "Process" : null,
+    "PK" : "6109820715995334377",
+    "Unique_Identifier" : "6109820715995334377"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-18T15:01:11.6",
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-18T15:01:11.6",
+    "ContextId" : "27165f2f-9478-463e-8344-20f0c2ec2690",
+    "ParentUser" : {
+      "PK" : 6109820715045292380
+    },
+    "Process" : null,
+    "PK" : "6109820716005348123",
+    "Unique_Identifier" : "6109820716005348123"
+  } ],
+  "Unique_Identifier" : "6109820715045292380__admin@five-below-s"
+}

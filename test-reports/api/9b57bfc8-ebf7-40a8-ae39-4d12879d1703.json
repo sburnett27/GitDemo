@@ -1,0 +1,34 @@
+{
+  "ItemCode" : [ {
+    "Type" : "UPC_Primary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Primary"
+    },
+    "Value" : "11111111004"
+  }, {
+    "Type" : "UPC_Secondary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Secondary"
+    },
+    "Value" : "33333331004"
+  }, {
+    "Type" : "GTIN",
+    "CodeTypeId" : {
+      "CodeTypeId" : "GTIN"
+    },
+    "Value" : "55555551005"
+  }, {
+    "Type" : "UPC_Secondary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Secondary"
+    },
+    "Value" : "33333331006"
+  }, {
+    "Type" : "GTIN",
+    "CodeTypeId" : {
+      "CodeTypeId" : "GTIN"
+    },
+    "Value" : "55555551010"
+  } ],
+  "ItemId" : "TSFFB1_A"
+}

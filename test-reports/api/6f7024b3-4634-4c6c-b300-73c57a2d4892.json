@@ -1,0 +1,25 @@
+{
+  "Data" : [ {
+    "IsDefault" : "false",
+    "ConfigName" : "AllocConfig11668",
+    "Description" : "AllocConfig11668",
+    "AllocationSource" : [ {
+      "AllocationConfig" : {
+        "Criteria" : "ConfigName == 'AllocConfig11668'"
+      },
+      "SourceId" : "Source1",
+      "Rank" : "1",
+      "SourceCategory" : "order"
+    }, {
+      "AllocationConfig" : {
+        "Criteria" : "ConfigName == 'AllocConfig11668'"
+      },
+      "SourceId" : "Source2",
+      "Rank" : "1",
+      "SourceCategory" : "orderLine"
+    } ],
+    "DemandType" : "Allocation",
+    "Rank" : "3846",
+    "EffectiveDate" : "2016-05-30T00:00:00"
+  } ]
+}

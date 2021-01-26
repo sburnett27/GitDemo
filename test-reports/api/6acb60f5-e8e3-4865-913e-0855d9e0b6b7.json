@@ -1,0 +1,42 @@
+{
+  "success" : true,
+  "header" : null,
+  "data" : {
+    "Messages" : null,
+    "ProfileId" : "Profile-FB-US-S",
+    "UpdatedTimestamp" : "2021-01-15T15:35:30.491",
+    "Description" : "Custom Package Desc",
+    "CreatedBy" : "admin@FB-US-S",
+    "CreatedTimestamp" : "2021-01-15T15:35:30.491",
+    "PackageTypeName" : "PT Custom Package",
+    "Process" : null,
+    "Dimension" : {
+      "Height" : 5.0,
+      "Width" : 10.0,
+      "Length" : 20.0,
+      "UOM" : {
+        "name" : "key",
+        "Code" : "IN"
+      }
+    },
+    "PackageTypeId" : "PT-Custom Package",
+    "UpdatedBy" : "admin@FB-US-S",
+    "SequenceNumber" : null,
+    "ContextId" : "1b348980-9cb6-4881-8a8b-f4790f5cd437",
+    "PK" : "6107249304905983451",
+    "Unique_Identifier" : "6107249304905983451__PT-Custom Package"
+  },
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-parcel:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "cce7d5edbfa8",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

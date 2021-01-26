@@ -1,0 +1,28 @@
+{
+  "ManufacturingAttribute" : [ {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "US",
+    "VendorStyleNumber" : "S1",
+    "Upc" : "2121211007",
+    "VendorLocationId" : "USLOC1"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "US",
+    "VendorStyleNumber" : "S2",
+    "Upc" : "3131311007",
+    "VendorLocationId" : "USLOC2"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "UK",
+    "VendorStyleNumber" : "S3",
+    "Upc" : "4141411007",
+    "VendorLocationId" : "UKLOC1"
+  }, {
+    "ScanQuantity" : "1",
+    "CountryofOrigin" : "UK",
+    "VendorStyleNumber" : "S4",
+    "Upc" : "5151511007",
+    "VendorLocationId" : "UKLOC2"
+  } ],
+  "ItemId" : "ECETM1"
+}

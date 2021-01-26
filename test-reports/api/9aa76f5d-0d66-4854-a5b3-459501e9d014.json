@@ -1,0 +1,248 @@
+{
+  "Data" : [ {
+    "ServiceLevelCode" : "SL-FedEx 1 Day Freight",
+    "Description" : "Ship Via - FedEx 1Day Freight Desc",
+    "ShipViaId" : "SV-FedEx 1 Day Freight",
+    "CarrierCode" : "FedEx Freight",
+    "ShipViaName" : "Ship Via - FedEx 1 Day Freight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-FedEx 2 Day",
+    "Description" : "Ship Via - FedEx 2Day Desc",
+    "ShipViaId" : "SV-FedEx 2 Day",
+    "CarrierCode" : "FedEx Express",
+    "ShipViaName" : "Ship Via - FedEx 2 Day",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-FedEx First Overnight",
+    "Description" : "Ship Via - FedEx First Overnight Desc",
+    "ShipViaId" : "SV-FedEx First Overnight",
+    "CarrierCode" : "FedEx Express",
+    "ShipViaName" : "Ship Via - FedEx First Overnight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-FedEx Ground",
+    "Description" : "Ship Via - FedEx Ground Desc",
+    "ShipViaId" : "SV-FedEx Ground",
+    "CarrierCode" : "FedEx Ground",
+    "ShipViaName" : "Ship Via - FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-Ground Home Delivery",
+    "Description" : "Ship Via - FedEx Home Delivery Desc",
+    "ShipViaId" : "SV-Ground Home Delivery",
+    "CarrierCode" : "FedEx Ground",
+    "ShipViaName" : "Ship Via - Ground Home Delivery",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-FedEx Freight Economy",
+    "Description" : "Ship Via - FedEx Freight Economy Desc",
+    "ShipViaId" : "SV-FedEx Freight Economy",
+    "CarrierCode" : "FedEx Freight",
+    "ShipViaName" : "Ship Via - FedEx Freight Economy",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-FedEx Freight Priority",
+    "Description" : "Ship Via - FedEx Freight Priority Desc",
+    "ShipViaId" : "SV-FedEx Freight Priority",
+    "CarrierCode" : "FedEx Freight",
+    "ShipViaName" : "Ship Via - FedEx Freight Priority",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-UPS NEXT DAY AIR",
+    "Description" : "Ship Via - UPS Next Day Air Desc",
+    "ShipViaId" : "SV-UPS NEXT DAY AIR",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - UPS NEXT DAY AIR",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-UPS Ground",
+    "Description" : "Ship Via - UPS Ground Desc",
+    "ShipViaId" : "SV-UPS Ground",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - UPS Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-UPS Standard",
+    "Description" : "Ship Via - UPS Standard Desc",
+    "ShipViaId" : "SV-UPS Standard",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - UPS Standard",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-Worldwide Express",
+    "Description" : "Ship Via - UPS Worldwide Express Desc",
+    "ShipViaId" : "SV-Worldwide Express",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - Worldwide Express",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-Three Day Select",
+    "Description" : "Ship Via - UPS Three Day Select Desc",
+    "ShipViaId" : "SV-Three Day Select",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - Three Day Select",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-UPS Saver",
+    "Description" : "Ship Via - UPS Saver Desc",
+    "ShipViaId" : "SV-UPS Saver",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - UPS Saver",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "SL-UPS Surepost Media",
+    "Description" : "Ship Via - UPS Surepost Media Desc",
+    "ShipViaId" : "SV-UPS Surepost Media",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - UPS Surepost Media",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile FedEx First Overnight",
+    "Description" : "Ship Via - Agile FedEx First Overnight Desc",
+    "ShipViaId" : "SV-Agile FedEx First Overnight",
+    "CarrierCode" : "Agile_FedEx",
+    "ShipViaName" : "Ship Via - Agile FedEx First Overnight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile FedEx 2 Day",
+    "Description" : "Ship Via - Agile FedEx 2 Day Desc",
+    "ShipViaId" : "SV-Agile FedEx 2 Day",
+    "CarrierCode" : "Agile_FedEx",
+    "ShipViaName" : "Ship Via - Agile FedEx 2 Day",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile FedEx Express Saver",
+    "Description" : "Ship Via - Agile FedEx Express Saver Desc",
+    "ShipViaId" : "SV-Agile FedEx Express Saver",
+    "CarrierCode" : "Agile_FedEx",
+    "ShipViaName" : "Ship Via - Agile FedEx Express Saver",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile FedEx International Economy",
+    "Description" : "Ship Via - Agile FedEx International Economy Desc",
+    "ShipViaId" : "SV-Agile FedEx International Economy",
+    "CarrierCode" : "Agile_FedEx",
+    "ShipViaName" : "Ship Via - Agile FedEx International Economy",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile UPS Next Day Air",
+    "Description" : "Ship Via - Agile UPS Next Day Air Desc",
+    "ShipViaId" : "SV-Agile UPS Next Day Air",
+    "CarrierCode" : "Agile_UPS",
+    "ShipViaName" : "Ship Via - Agile UPS Next Day Air",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile UPS Ground",
+    "Description" : "Ship Via - Agile UPS Ground Desc",
+    "ShipViaId" : "SV-Agile UPS Ground",
+    "CarrierCode" : "Agile_UPS",
+    "ShipViaName" : "Ship Via - Agile UPS Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile UPS Worldwide Express SM",
+    "Description" : "Ship Via - Agile UPS Worldwide Express SM Desc",
+    "ShipViaId" : "SV-Agile UPS Worldwide Express SM",
+    "CarrierCode" : "Agile_UPS",
+    "ShipViaName" : "Ship Via - Agile UPS Worldwide Express SM",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile UPS Next Day Air Early A.M.",
+    "Description" : "Ship Via - Agile UPS Next Day Air Early A.M. Desc",
+    "ShipViaId" : "SV-Agile UPS Next Day Air Early A.M.",
+    "CarrierCode" : "Agile_UPS",
+    "ShipViaName" : "Ship Via - Agile UPS Next Day Air Early A.M.",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "UPS Next Day Air Early",
+    "Description" : "Ship Via - UPS Next Day Air Early Desc",
+    "ShipViaId" : "SV-UPS Next Day Air Early",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "Ship Via - UPS Next Day Air Early",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "UPS 2 Day Air",
+    "Description" : "Ship Via - UPS 2 Day Air Desc",
+    "ShipViaId" : "SV-UPS 2 Day Air",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "SV-UPS 2 Day Air",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "UPS Next Day Air Saver",
+    "Description" : "Ship Via - UPS Next Day Air Saver Desc",
+    "ShipViaId" : "SV-UPS Next Day Air Saver",
+    "CarrierCode" : "UPS Carrier",
+    "ShipViaName" : "SV-UPS Next Day Air Saver",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx 2 Day AM",
+    "Description" : "Ship Via - FedEx 2 Day AM Desc",
+    "ShipViaId" : "SV-FedEx 2 Day AM",
+    "CarrierCode" : "FedEx Express",
+    "ShipViaName" : "Ship Via - FedEx 2 Day AM",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Priority Overnight",
+    "Description" : "Ship Via - FedEx Priority Overnight Desc",
+    "ShipViaId" : "SV-FedEx Priority Overnight",
+    "CarrierCode" : "FedEx Express",
+    "ShipViaName" : "Ship Via - FedEx Priority Overnight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Smart Post Parcel Return",
+    "Description" : "Ship Via - FedEx Smart Post Parcel Return Desc",
+    "ShipViaId" : "SV-FedEx Smart Post Parcel Return",
+    "CarrierCode" : "FedEx Smart Post",
+    "ShipViaName" : "Ship Via - FedEx Smart Post Parcel Return",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Smart Post Parcel Select",
+    "Description" : "Ship Via - FedEx Smart Post Parcel Select Desc",
+    "ShipViaId" : "SV-FedEx Smart Post Parcel Select",
+    "CarrierCode" : "FedEx Smart Post",
+    "ShipViaName" : "Ship Via - FedEx Smart Post Parcel Select",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Smart Post Presorted Standard",
+    "Description" : "Ship Via - FedEx Smart Post Presorted Standard Desc",
+    "ShipViaId" : "SV-FedEx Smart Post Presorted Standard",
+    "CarrierCode" : "FedEx Smart Post",
+    "ShipViaName" : "Ship Via - FedEx Smart Post Presorted Standard",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Smart Post Media Mail",
+    "Description" : "Ship Via - FedEx Smart Post Media Mail Desc",
+    "ShipViaId" : "SV-FedEx Smart Post Media Mail",
+    "CarrierCode" : "FedEx Smart Post",
+    "ShipViaName" : "Ship Via - FedEx Smart Post Media Mail",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx SP Presorted Bounded Printed Matter",
+    "Description" : "Ship Via - FedEx Smart Post Presorted Bounded Printed Matter Desc",
+    "ShipViaId" : "SV-FedEx SP Presorted Bounded Printed Matter",
+    "CarrierCode" : "FedEx Smart Post",
+    "ShipViaName" : "SV - FedEx SP Presorted Bounded Printed Matter",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Standard Overnight",
+    "Description" : "Ship Via - FedEx Standard Overnight Desc",
+    "ShipViaId" : "SV-FedEx Standard Overnight",
+    "CarrierCode" : "FedEx Express",
+    "ShipViaName" : "Ship Via - FedEx Standard Overnight",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "FedEx Express Saver",
+    "Description" : "Ship Via - FedEx Express Saver Desc",
+    "ShipViaId" : "SV-FedEx Express Saver",
+    "CarrierCode" : "FedEx Express",
+    "ShipViaName" : "Ship Via - FedEx Express Saver",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "ServiceLevelCode" : "Agile FedEx Ground",
+    "Description" : "Ship Via - Agile FedEx Ground Desc",
+    "ShipViaId" : "SV-Agile FedEx Ground",
+    "CarrierCode" : "Agile_FedEx",
+    "ShipViaName" : "Ship Via - Agile FedEx Ground",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

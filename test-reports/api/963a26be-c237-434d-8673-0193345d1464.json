@@ -1,0 +1,75 @@
+{
+  "Data" : [ {
+    "ResourceId" : "storefacade::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "ui-fulfillment::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "ui-inventory::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "fulfillment::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "sim::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "pathoptimization::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "organization::grant::read-getlistforuser",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "organization::provisioningprofile::read",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrMgr"
+  }, {
+    "ResourceId" : "storefacade::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "api::storefacade::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "ui-fulfillment::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "ui-inventory::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "fulfillment::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "sim::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "pathoptimization::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "organization::grant::read-getlistforuser",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "organization::provisioningprofile::read",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  }, {
+    "ResourceId" : "parcel::*",
+    "OrganizationId" : "Kering12-B1-IT",
+    "RoleId" : "StrAssociate"
+  } ]
+}

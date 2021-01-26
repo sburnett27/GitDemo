@@ -1,0 +1,113 @@
+{
+  "Data" : [ {
+    "Description" : "Additional Handling",
+    "AccessorialCode" : "ADDITIONAL_HANDLING",
+    "AccessorialName" : "Additional Handling",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Adult Signature Required",
+    "AccessorialCode" : "ADULT_SIGNATURE",
+    "AccessorialName" : "Appointment Home Delivery",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Appointment Home Delivery",
+    "AccessorialCode" : "APPOINTMENT_DELIVERY",
+    "AccessorialName" : "Appointment Home Delivery",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Collect On Delivery",
+    "AccessorialCode" : "COD",
+    "AccessorialName" : "Collect On Delivery",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Signature Required",
+    "AccessorialCode" : "DIRECT_SIGNATURE",
+    "AccessorialName" : "Signature Required",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "ry Ice Shipment",
+    "AccessorialCode" : "DRY_ICE",
+    "AccessorialName" : "ry Ice Shipment",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "HOME DELIVERY PREMIUM",
+    "AccessorialCode" : "HOME_DELIVERY_PREMIUM",
+    "AccessorialName" : "HOME DELIVERY PREMIUM",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "ry Ice Shipment",
+    "AccessorialCode" : "DRY_ICE",
+    "AccessorialName" : "ry Ice Shipment",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Hold At Location",
+    "AccessorialCode" : "HOLD_AT_LOCATION",
+    "AccessorialName" : "Hold At Location",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "LARGE PACKAGE",
+    "AccessorialCode" : "LARGE_PACKAGE",
+    "AccessorialName" : "LARGE PACKAGE",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Delivery Confirmation",
+    "AccessorialCode" : "INDIRECT_SIGNATURE",
+    "AccessorialName" : "Delivery Confirmation",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "No Signature Required",
+    "AccessorialCode" : "NO_SIGNATURE",
+    "AccessorialName" : "No Signature Required",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "EVENING DELIVERY",
+    "AccessorialCode" : "EVENING_DELIVERY",
+    "AccessorialName" : "EVENING DELIVERY",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "INSIDE_DELIVERY",
+    "AccessorialCode" : "INSIDE_DELIVERY",
+    "AccessorialName" : "INSIDE_DELIVERY",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "INSIDE PICKUP",
+    "AccessorialCode" : "INSIDE_PICKUP",
+    "AccessorialName" : "INSIDE PICKUP",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "NON STANDARD CONTAINER",
+    "AccessorialCode" : "NON_STANDARD_CONTAINER",
+    "AccessorialName" : "NON STANDARD CONTAINER",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "Large Package Surcharge",
+    "AccessorialCode" : "OVERSIZE",
+    "AccessorialName" : "Large Package Surcharge",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "SATURDAY DELIVERY",
+    "AccessorialCode" : "SATURDAY_DELIVERY",
+    "AccessorialName" : "SATURDAY_DELIVERY",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "SATURDAY PICKUP",
+    "AccessorialCode" : "SATURDAY_PICKUP",
+    "AccessorialName" : "SATURDAY PICKUP",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "SPECIAL DELIVERY",
+    "AccessorialCode" : "SPECIAL_DELIVERY",
+    "AccessorialName" : "SPECIAL DELIVERY",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "SUNDAY DELIVERY",
+    "AccessorialCode" : "SUNDAY_DELIVERY",
+    "AccessorialName" : "SUNDAY DELIVERY",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "Description" : "SUNDAY PICKUP",
+    "AccessorialCode" : "SUNDAY_PICKUP",
+    "AccessorialName" : "SUNDAY PICKUP",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

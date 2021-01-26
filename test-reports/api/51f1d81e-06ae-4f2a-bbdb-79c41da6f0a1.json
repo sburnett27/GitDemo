@@ -1,0 +1,9 @@
+{
+  "Data" : [ {
+    "Description" : "Indicates if the order line is cancelled as aged",
+    "ReallocateOnShort" : "false",
+    "ReasonId" : "5000.000",
+    "ReasonTypeId" : "Cancel",
+    "ShortDescription" : "Reason for cancel"
+  } ]
+}

@@ -1,0 +1,137 @@
+{
+  "CreatedTimestamp" : "2021-01-15T15:32:18.403",
+  "Address" : {
+    "Email" : "supplychainadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "Georgia",
+    "Phone" : null,
+    "Address2" : "Windy Ridge Parkway",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300",
+    "City" : "Atlanta",
+    "County" : null
+  },
+  "IsActive" : true,
+  "OrgUser" : [ ],
+  "Extended" : {
+    "ExtendedAttr1" : null,
+    "ExtendedAttr4" : null,
+    "ExtendedAttr5" : null,
+    "ExtendedAttr2" : null,
+    "ExtendedAttr3" : null
+  },
+  "Process" : null,
+  "Gender" : null,
+  "StartDate" : null,
+  "UpdatedBy" : "systemadmin@system.com",
+  "UserTimeZone" : "US/Eastern",
+  "UserLocation" : [ ],
+  "UserPin" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:18.404",
+    "User" : null,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:18.404",
+    "UserId" : "u1@fb-brand1-us-s",
+    "ContextId" : "00c1e55f-0a2e-4f07-a7f8-d0a94b27101c",
+    "Process" : null,
+    "PK" : "6107247384041018384",
+    "Unique_Identifier" : "6107247384041018384__u1@fb-brand1-us-s"
+  } ],
+  "Email2" : null,
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "PasswordExpiry" : null,
+  "DateOfBirth" : null,
+  "UserLoginHistory" : [ ],
+  "IdentityType" : {
+    "IdentityTypeId" : "Database"
+  },
+  "UpdatedTimestamp" : "2021-01-15T15:32:18.403",
+  "PrimaryOrgId" : "FB-BRAND1-US-S",
+  "Messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "CreatedBy" : "systemadmin@system.com",
+  "UserBusinessUnit" : [ ],
+  "MustClock" : false,
+  "FirstName" : null,
+  "ImageUrl" : null,
+  "EndDate" : null,
+  "UserDefaults" : [ ],
+  "UserId" : "u1@fb-brand1-us-s",
+  "ContextId" : "00c1e55f-0a2e-4f07-a7f8-d0a94b27101c",
+  "LastName" : null,
+  "PK" : "6107247384031006812",
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "HasAccessToAllBUs" : false,
+  "AvailableUserLocales" : [ {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:18.497",
+    "LocaleId" : {
+      "LocaleId" : "de"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:18.497",
+    "ContextId" : "00c1e55f-0a2e-4f07-a7f8-d0a94b27101c",
+    "ParentUser" : {
+      "PK" : 6107247384031006812
+    },
+    "Process" : null,
+    "PK" : "6107247384971028776",
+    "Unique_Identifier" : "6107247384971028776"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:18.497",
+    "LocaleId" : {
+      "LocaleId" : "es"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:18.497",
+    "ContextId" : "00c1e55f-0a2e-4f07-a7f8-d0a94b27101c",
+    "ParentUser" : {
+      "PK" : 6107247384031006812
+    },
+    "Process" : null,
+    "PK" : "6107247384971035893",
+    "Unique_Identifier" : "6107247384971035893"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:18.497",
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:18.497",
+    "ContextId" : "00c1e55f-0a2e-4f07-a7f8-d0a94b27101c",
+    "ParentUser" : {
+      "PK" : 6107247384031006812
+    },
+    "Process" : null,
+    "PK" : "6107247384971045050",
+    "Unique_Identifier" : "6107247384971045050"
+  }, {
+    "UpdatedBy" : "systemadmin@system.com",
+    "UpdatedTimestamp" : "2021-01-15T15:32:18.498",
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    },
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:32:18.498",
+    "ContextId" : "00c1e55f-0a2e-4f07-a7f8-d0a94b27101c",
+    "ParentUser" : {
+      "PK" : 6107247384031006812
+    },
+    "Process" : null,
+    "PK" : "6107247384981055501",
+    "Unique_Identifier" : "6107247384981055501"
+  } ],
+  "Unique_Identifier" : "6107247384031006812__u1@fb-brand1-us-s"
+}

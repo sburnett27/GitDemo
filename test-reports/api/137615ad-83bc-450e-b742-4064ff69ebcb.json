@@ -1,0 +1,419 @@
+{
+  "success" : true,
+  "header" : null,
+  "data" : {
+    "Messages" : null,
+    "ProfileId" : "Profile-FB-BRAND1-US-S",
+    "DimensionUOM" : null,
+    "CreatedTimestamp" : "2021-01-15T15:36:41.219",
+    "Size" : "S",
+    "BaseUOM" : "Units",
+    "Extended" : {
+      "ExtendedAttribute1" : null
+    },
+    "DepartmentNumber" : null,
+    "Process" : null,
+    "ItemId" : "TSFFB1_A",
+    "ShortDescription" : "Wilson Mini Autograph Football_A",
+    "UpdatedBy" : "admin@FB-BRAND1-US-S",
+    "ItemInstruction" : [ ],
+    "ManufacturingAttribute" : [ {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.684",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.684",
+      "Upc" : "2121211007",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S1",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126847856950",
+      "VendorLocationId" : "USLOC1",
+      "Unique_Identifier" : "6107250126847856950__US__2121211007__USLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.685",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.685",
+      "Upc" : "3131311007",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S2",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126847867835",
+      "VendorLocationId" : "USLOC2",
+      "Unique_Identifier" : "6107250126847867835__US__3131311007__USLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.685",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.685",
+      "Upc" : "4141411007",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "UK",
+      "VendorStyleNumber" : "S3",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126857871514",
+      "VendorLocationId" : "UKLOC1",
+      "Unique_Identifier" : "6107250126857871514__UK__4141411007__UKLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.685",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.685",
+      "Upc" : "5151511007",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "UK",
+      "VendorStyleNumber" : "S4",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126857883175",
+      "VendorLocationId" : "UKLOC2",
+      "Unique_Identifier" : "6107250126857883175__UK__5151511007__UKLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.685",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.685",
+      "Upc" : "6161611007",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S5",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126857895746",
+      "VendorLocationId" : "CNLOC1",
+      "Unique_Identifier" : "6107250126857895746__CN__6161611007__CNLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.685",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.685",
+      "Upc" : "7171711007",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S6",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126857907823",
+      "VendorLocationId" : "CNLOC2",
+      "Unique_Identifier" : "6107250126857907823__CN__7171711007__CNLOC2"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.685",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.685",
+      "Upc" : "2121211008",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S1",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126857914295",
+      "VendorLocationId" : "USLOC1",
+      "Unique_Identifier" : "6107250126857914295__US__2121211008__USLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.686",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.686",
+      "Upc" : "3131311008",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S5",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126867924011",
+      "VendorLocationId" : "CNLOC1",
+      "Unique_Identifier" : "6107250126867924011__CN__3131311008__CNLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.686",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.686",
+      "Upc" : "2121211009",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S1",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126867935787",
+      "VendorLocationId" : "USLOC1",
+      "Unique_Identifier" : "6107250126867935787__US__2121211009__USLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.686",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.686",
+      "Upc" : "3131311009",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "UK",
+      "VendorStyleNumber" : "S3",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126867948603",
+      "VendorLocationId" : "UKLOC1",
+      "Unique_Identifier" : "6107250126867948603__UK__3131311009__UKLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:52.686",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:52.686",
+      "Upc" : "2121211010",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "US",
+      "VendorStyleNumber" : "S1",
+      "ContextId" : "d3e24001-602a-4d3a-902e-e4badf21b099",
+      "PK" : "6107250126867956259",
+      "VendorLocationId" : "USLOC1",
+      "Unique_Identifier" : "6107250126867956259__US__2121211010__USLOC1"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ScanQuantity" : 1.0,
+      "UpdatedTimestamp" : "2021-01-15T15:36:53.111",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:53.111",
+      "Upc" : "3131311010",
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "CountryofOrigin" : "CN",
+      "VendorStyleNumber" : "S2",
+      "ContextId" : "243db5fd-7ec8-4b74-b9d0-f2fee05ed9b4",
+      "PK" : "6107250131117995435",
+      "VendorLocationId" : "USLOC2",
+      "Unique_Identifier" : "6107250131117995435__CN__3131311010__USLOC2"
+    } ],
+    "ReasonId" : "",
+    "CreatedBy" : "admin@FB-BRAND1-US-S",
+    "VolumetricWeight" : null,
+    "SmallImageURI" : "https://res.cloudinary.com/manhpoc/image/upload/v1532531438/sifimages/WilsonMiniAutographFootball.jpg",
+    "Color" : "Blue",
+    "Media" : [ ],
+    "WebURL" : "",
+    "Weight" : 1.0,
+    "SizeSortSequence" : null,
+    "IsDiscontinued" : false,
+    "Brand" : "U.S. Polo",
+    "Volume" : null,
+    "ContextId" : "17212c77-e20f-4af8-9d30-e76440ca6085",
+    "DepartmentName" : null,
+    "LocalizedData" : [ ],
+    "ItemAttribute" : [ ],
+    "IsScanOnly" : false,
+    "ItemCode" : [ {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:20.8",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:20.207",
+      "CodeTypeId" : {
+        "CodeTypeId" : "UPC_Primary"
+      },
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "Type" : "UPC_Primary",
+      "Value" : "11111111010",
+      "ContextId" : "bc440ae9-1c09-484b-ae2c-1adcf32cce95",
+      "PK" : "6109770402072167674",
+      "Unique_Identifier" : "6109770402072167674"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:20.208",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:20.208",
+      "CodeTypeId" : {
+        "CodeTypeId" : "UPC_Secondary"
+      },
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "Type" : "UPC_Secondary",
+      "Value" : "33333331006",
+      "ContextId" : "17212c77-e20f-4af8-9d30-e76440ca6085",
+      "PK" : "6109770402082177751",
+      "Unique_Identifier" : "6109770402082177751"
+    }, {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "UpdatedTimestamp" : "2021-01-18T13:37:20.208",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-18T13:37:20.208",
+      "CodeTypeId" : {
+        "CodeTypeId" : "GTIN"
+      },
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "Type" : "GTIN",
+      "Value" : "55555551010",
+      "ContextId" : "17212c77-e20f-4af8-9d30-e76440ca6085",
+      "PK" : "6109770402082184996",
+      "Unique_Identifier" : "6109770402082184996"
+    } ],
+    "Description" : "Wilson Mini Autograph Football_A Desc",
+    "IsRecalled" : false,
+    "ColorImageURI" : "",
+    "SeasonYear" : 2019,
+    "IsGiftwithPurchase" : false,
+    "HandlingAttributes" : {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "UpdatedTimestamp" : "2021-01-15T15:36:41.22",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:41.22",
+      "IsHazmat" : false,
+      "Process" : null,
+      "IsParcelShippingAllowed" : false,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "ContextId" : "f87640a7-28a2-4c15-ba11-99705e8fe36c",
+      "HazmatCode" : null,
+      "IsAirShippingAllowed" : false,
+      "IsFrozen" : false,
+      "PK" : "6107250012206466805",
+      "Unique_Identifier" : "6107250012206466805"
+    },
+    "ProductSubClass" : null,
+    "Style" : "",
+    "ValueAddedServices" : [ {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "UpdatedTimestamp" : "2021-01-15T15:36:41.221",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "CreatedTimestamp" : "2021-01-15T15:36:41.221",
+      "ContextId" : "f87640a7-28a2-4c15-ba11-99705e8fe36c",
+      "ValueAddedServiceTypeId" : {
+        "ValueAddedServiceTypeId" : "GW"
+      },
+      "ParentItem" : {
+        "PK" : 6107250012196451639
+      },
+      "Process" : null,
+      "PK" : "6107250012206474635",
+      "Unique_Identifier" : "6107250012206474635"
+    } ],
+    "Height" : null,
+    "ItemStatusId" : null,
+    "StoreDepartment" : "",
+    "Season" : "SM",
+    "ProductClass" : "",
+    "IsNonMerchandise" : false,
+    "Width" : null,
+    "UpdatedTimestamp" : "2021-01-18T13:37:20.268",
+    "WeightUOM" : "LB",
+    "ItemExtension1" : [ ],
+    "IsGiftCard" : false,
+    "ColorSortSequence" : null,
+    "VolumeUOM" : null,
+    "VolumetricWeightUOM" : null,
+    "SellingAttributes" : {
+      "ProfileId" : "Profile-FB-BRAND1-US-S",
+      "ShipToAddress" : true,
+      "PriceStatusId" : "",
+      "CreatedTimestamp" : "2021-01-15T15:36:41.221",
+      "IsExchangeable" : true,
+      "IsPriceOverrideable" : true,
+      "SellThrough" : null,
+      "Process" : null,
+      "ValueEntryRequired" : false,
+      "UpdatedBy" : "admin@FB-BRAND1-US-S",
+      "TaxCode" : "",
+      "SoldInStores" : false,
+      "SoldOnline" : false,
+      "IsTaxable" : true,
+      "ActivationRequired" : true,
+      "UpdatedTimestamp" : "2021-01-15T15:36:41.221",
+      "CreatedBy" : "admin@FB-BRAND1-US-S",
+      "ShipToStore" : false,
+      "DispositionId" : null,
+      "AvailableToSellDateTime" : null,
+      "IsTaxOverrideable" : true,
+      "IsDiscountable" : true,
+      "IsReturnableAtStore" : true,
+      "MaxDiscount" : -1.0,
+      "PickUpInStore" : true,
+      "IsReturnableAtDC" : true,
+      "MaxDiscountAmount" : null,
+      "SellDate" : null,
+      "DigitalGoods" : false,
+      "ContextId" : "f87640a7-28a2-4c15-ba11-99705e8fe36c",
+      "IsTaxExemptable" : true,
+      "PK" : "6107250012216484513",
+      "MaxDiscountPercentage" : null,
+      "Unique_Identifier" : "6107250012216484513"
+    },
+    "Length" : null,
+    "InventoryProtection" : null,
+    "PK" : "6107250012196451639",
+    "LargeImageURI" : "",
+    "RecommendedProduct" : [ ],
+    "Unique_Identifier" : "6107250012196451639__TSFFB1_A"
+  },
+  "messageKey" : null,
+  "message" : null,
+  "errors" : [ ],
+  "exceptions" : [ ],
+  "messages" : {
+    "Message" : [ ],
+    "Size" : 0
+  },
+  "rootCause" : null,
+  "cloudComponent" : "com-manh-cp-item:docker,cloud,kubernetes:8080",
+  "cloudComponentHostName" : "42369f8690d8",
+  "requestUri" : null,
+  "statusCode" : "OK"
+}

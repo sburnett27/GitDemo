@@ -1,0 +1,93 @@
+{
+  "Data" : [ {
+    "OrganizationName" : "FB-CANADA-Test",
+    "UpdatedTimestamp" : "2021-01-15T15:31:55.063",
+    "Messages" : null,
+    "IsBaseImageProvider" : true,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:31:52.853",
+    "OrganizationAddress" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:31:52.854",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:31:52.854",
+      "Address" : {
+        "Email" : null,
+        "FirstName" : "Manhattan",
+        "State" : "GA",
+        "Phone" : null,
+        "Address2" : "",
+        "Address3" : "",
+        "PostalCode" : "30339-5665",
+        "Country" : "US",
+        "LastName" : "Rogers",
+        "Address1" : "2300 Windy Ridge Parkway",
+        "City" : "Atlanta",
+        "County" : null
+      },
+      "OrganizationAddressId" : "rogers-address-1",
+      "ParentOrganization" : {
+        "PK" : 6107247128538269098
+      },
+      "ContextId" : "a6defb7b-c9a2-4348-b829-9f7196c3ee19",
+      "Process" : null,
+      "PK" : "6107247128538276171",
+      "AddressType" : {
+        "AddressTypeId" : "HeadQuarters"
+      },
+      "Unique_Identifier" : "6107247128538276171__rogers-address-1"
+    } ],
+    "OrganizationContact" : [ ],
+    "IsManagedOrganization" : false,
+    "ImageUrl" : null,
+    "Process" : null,
+    "OrganizationId" : "FB-CANADA-S",
+    "Role" : [ ],
+    "UpdatedBy" : "systemadmin@system.com",
+    "ContextId" : "4d689509-e6ac-446c-a25a-5c9a61c5ec4c",
+    "WebStoreUrl" : null,
+    "PK" : "6107247128538269098",
+    "Unique_Identifier" : "6107247128538269098__FB-CANADA-S",
+    "OrganizationHierarchy" : [ {
+      "ChildOrganizationId" : "FB-BRAND1-CANADA-S",
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:31:55.06",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:31:55.06",
+      "ParentOrganizationId" : "FB-CANADA-S",
+      "ParentOrganization" : {
+        "PK" : 6107247128538269098
+      },
+      "ContextId" : "4d689509-e6ac-446c-a25a-5c9a61c5ec4c",
+      "Process" : null,
+      "PK" : "6107247150608427165",
+      "Unique_Identifier" : "6107247150608427165__FB-BRAND1-CANADA-S__FB-CANADA-S"
+    }, {
+      "ChildOrganizationId" : "FB-BRAND2-CANADA-S",
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:31:55.061",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:31:55.061",
+      "ParentOrganizationId" : "FB-CANADA-S",
+      "ParentOrganization" : {
+        "PK" : 6107247128538269098
+      },
+      "ContextId" : "4d689509-e6ac-446c-a25a-5c9a61c5ec4c",
+      "Process" : null,
+      "PK" : "6107247150618432917",
+      "Unique_Identifier" : "6107247150618432917__FB-BRAND2-CANADA-S__FB-CANADA-S"
+    }, {
+      "ChildOrganizationId" : "FB-BRAND1-CANADA-S",
+      "Organization" : {
+        "Criteria" : "OrganizationId == 'FB-CANADA-S'"
+      },
+      "ParentOrganizationId" : "FB-CANADA-S"
+    }, {
+      "ChildOrganizationId" : "FB-BRAND2-CANADA-S",
+      "Organization" : {
+        "Criteria" : "OrganizationId == 'FB-CANADA-S'"
+      },
+      "ParentOrganizationId" : "FB-CANADA-S"
+    } ]
+  } ]
+}

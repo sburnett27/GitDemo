@@ -1,0 +1,165 @@
+{
+  "Data" : [ {
+    "CustomerSinceDate" : null,
+    "AnniversaryDate" : "2011-12-04",
+    "Email" : "11668@manh.com",
+    "IsActive" : "true",
+    "Birthday" : "1988-02-01",
+    "CustomerContact" : [ ],
+    "Gender" : "Female",
+    "ExternalCreatedDate" : null,
+    "CustomerPreferences" : {
+      "PreferredContactMethodId" : "Email/Text",
+      "PreferredShipViaId" : "STD",
+      "PreferredStoreLocationId" : "New York Store",
+      "PreferredCallTime" : "Morning"
+    },
+    "Phone" : "(123) 123-1234",
+    "ActivationReasonId" : null,
+    "TaxExemptId" : "T-9876502",
+    "CustomerCommPref" : [ ],
+    "Notes" : null,
+    "Status" : null,
+    "FirstName" : "Customer",
+    "CustomerId" : "Cus11668",
+    "SocialAccount" : [ ],
+    "CustomerType" : "Gold",
+    "CustomerAlternateId" : [ {
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "InactiveCustomerId" : "CUS_ALT_02"
+    } ],
+    "CustomerPaymentMethod" : [ {
+      "PaymentMethodType" : "Credit Card",
+      "BusinessName" : "",
+      "PaymentMethodId" : "1",
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "BillingAddressId" : "BAddr02",
+      "DriversLicenseState" : "",
+      "DriversLicenseNumber" : "",
+      "CardExpiryYear" : "2021",
+      "AccountNumber" : "4111111111111111",
+      "BusinessTaxId" : "",
+      "RoutingNumber" : "",
+      "DriversLicenseCountry" : "",
+      "CardType" : "Visa",
+      "AccountDisplayNumber" : "ccount ending with 1111",
+      "RoutingDisplayNumber" : "",
+      "NameOnCard" : "KIRAN",
+      "SwipeData" : "",
+      "CardExpiryMonth" : "11"
+    } ],
+    "CustomerAttribute" : [ {
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "Value" : "Sky Blue",
+      "Name" : "FavoriteColor"
+    }, {
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "Value" : "8",
+      "Name" : "ShoeSize"
+    } ],
+    "ActivationHistory" : [ ],
+    "ExternalLastUpdatedDate" : null,
+    "LastName" : "11668",
+    "CustomerAddress" : [ {
+      "AddressName" : "Home",
+      "AddressTypeId" : "Both",
+      "IsPreferred" : "false",
+      "Address" : {
+        "Email" : "11668@manh.com",
+        "Phone" : "(678) 597-7701",
+        "State" : "GA",
+        "FirstName" : "Britney",
+        "Address2" : "",
+        "Country" : "US",
+        "Address3" : "",
+        "PostalCode" : "30339",
+        "City" : "Atlanta",
+        "LastName" : "Headey",
+        "Address1" : "2300 Windy Ridge Pkwy",
+        "County" : ""
+      },
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "IsAddressVerified" : "true",
+      "AddressId" : "Addr02"
+    }, {
+      "AddressName" : "Work",
+      "AddressTypeId" : "Billing",
+      "IsPreferred" : "true",
+      "Address" : {
+        "Email" : "11668@manh.com",
+        "Phone" : "(678) 597-7701",
+        "State" : "GA",
+        "FirstName" : "Britney",
+        "Address2" : "",
+        "Country" : "US",
+        "Address3" : "",
+        "PostalCode" : "30339",
+        "City" : "Atlanta",
+        "LastName" : "Ch",
+        "Address1" : "2300 Windy Ridge",
+        "County" : ""
+      },
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "IsAddressVerified" : "true",
+      "AddressId" : "BAddr02"
+    }, {
+      "AddressName" : "Work",
+      "AddressTypeId" : "Billing",
+      "IsPreferred" : "false",
+      "Address" : {
+        "Email" : "11668@manh.com",
+        "Phone" : "(678) 597-7701",
+        "State" : "AZ",
+        "FirstName" : "Britney",
+        "Address2" : "Beaverton",
+        "Country" : "US",
+        "Address3" : "",
+        "PostalCode" : "85123",
+        "City" : "Pheonix",
+        "LastName" : "Ch",
+        "Address1" : "200 E Main St",
+        "County" : ""
+      },
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "IsAddressVerified" : "true",
+      "AddressId" : "Addr105"
+    }, {
+      "AddressName" : "Work",
+      "AddressTypeId" : "Shipping",
+      "IsPreferred" : "true",
+      "Address" : {
+        "Email" : "11668@manh.com",
+        "Phone" : "(678) 597-7701",
+        "State" : "GA",
+        "FirstName" : "Britney",
+        "Address2" : "",
+        "Country" : "US",
+        "Address3" : "",
+        "PostalCode" : "30076",
+        "City" : "Roswell",
+        "LastName" : "Ch",
+        "Address1" : "1400 Holcomb Ridge Rd",
+        "County" : ""
+      },
+      "Customer" : {
+        "Criteria" : "CustomerId == 'Cus11668'"
+      },
+      "IsAddressVerified" : "true",
+      "AddressId" : "Addr02"
+    } ]
+  } ]
+}

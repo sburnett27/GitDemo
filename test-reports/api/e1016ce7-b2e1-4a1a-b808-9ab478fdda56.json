@@ -1,0 +1,49 @@
+{
+  "IdentityType" : {
+    "IdentityTypeId" : "Database",
+    "IdentityTypeName" : "Database"
+  },
+  "PrimaryOrgId" : "Five-Below-S",
+  "UserTimeZone" : "US/Eastern",
+  "UserName" : "admin@Five-Below-S",
+  "Address" : {
+    "Email" : "supplychainadmin@manh.com",
+    "FirstName" : "Manhattan Associates",
+    "State" : "Georgia",
+    "Address2" : "Windy Ridge Parkway",
+    "Address3" : "10th Floor",
+    "PostalCode" : "30339",
+    "Country" : "US",
+    "LastName" : "Inc",
+    "Address1" : "2300",
+    "City" : "Atlanta"
+  },
+  "IsActive" : true,
+  "UserId" : "admin@Five-Below-S",
+  "UserPin" : [ {
+    "Pin" : "Password!123"
+  } ],
+  "UserLocale" : {
+    "LocaleId" : "en"
+  },
+  "UserType" : {
+    "UserTypeId" : "Human"
+  },
+  "AvailableUserLocales" : [ {
+    "LocaleId" : {
+      "LocaleId" : "de"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "es"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "fr"
+    }
+  }, {
+    "LocaleId" : {
+      "LocaleId" : "zh"
+    }
+  } ]
+}

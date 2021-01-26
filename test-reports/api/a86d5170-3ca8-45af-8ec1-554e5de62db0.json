@@ -1,0 +1,228 @@
+{
+  "Data" : [ {
+    "CarrierPackageTypeId" : "FEDEX_BOX",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-Box",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_ENVELOPE",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-Envelope",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_PAK",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-Pack",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_TUBE",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-Tube",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "25",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-BOX_25_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "10",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-BOX_10_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "YOUR_PACKAGING",
+    "CarrierCode" : "FedEx Ground",
+    "PackageTypeId" : "PT-Custom Package",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "YOUR_PACKAGING",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-Custom Package",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_TUBE",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-Tube",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_BOX",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-Box",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_ENVELOPE",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-Envelope",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_PAK",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-Pack",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "25",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-BOX_25_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "10",
+    "CarrierCode" : "FedEx Express",
+    "PackageTypeId" : "PT-BOX_10_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_BOX",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-Box",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_ENVELOPE",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-Envelope",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_PAK",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-Pack",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "FEDEX_TUBE",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-Tube",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "25",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-BOX_25_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "10",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-BOX_10_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "YOUR_PACKAGING",
+    "CarrierCode" : "FedEx Freight",
+    "PackageTypeId" : "PT-Custom Package",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "YOUR_PACKAGING",
+    "CarrierCode" : "FedEx Smart Post",
+    "PackageTypeId" : "PT-Custom Package",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "EE",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-Envelope",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "02",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-Custom Package",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "TB",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-Tube",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "PK",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-Pack",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "02",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-Box",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "26",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-BOX_SMALL",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "27",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-Box_Medium",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "28",
+    "CarrierCode" : "UPS Carrier",
+    "PackageTypeId" : "PT-BOX_LARGE",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "10",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-Envelope",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "11",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-Agile_Custom_Pkg",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "12",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-Tube",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "13",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-Pack",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "14",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-Box",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "513",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-BOX_SMALL",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "514",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-Box_Medium",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "515",
+    "CarrierCode" : "Agile_UPS",
+    "PackageTypeId" : "PT-BOX_LARGE",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "384",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-Envelope",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "385",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-Pack",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "386",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-Box",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "387",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-Tube",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "388",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-BOX_10_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "389",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-BOX_25_KG",
+    "ProvisioningProfileId" : "FB-US-S"
+  }, {
+    "CarrierPackageTypeId" : "43",
+    "CarrierCode" : "Agile_FedEx",
+    "PackageTypeId" : "PT-Agile_Custom_Pkg",
+    "ProvisioningProfileId" : "FB-US-S"
+  } ]
+}

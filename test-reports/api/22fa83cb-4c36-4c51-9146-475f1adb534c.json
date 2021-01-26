@@ -1,0 +1,168 @@
+{
+  "Data" : [ {
+    "UserId" : "admin@Five-Below-S",
+    "OrganizationId" : "Five-Below-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "admin@FB-US-S",
+    "OrganizationId" : "FB-US-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "admin@FB-CANADA-S",
+    "OrganizationId" : "FB-CANADA-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "admin@FB-BRAND1-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "admin@FB-BRAND2-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "admin@FB-BRAND1-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "admin@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "Admin-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Pickup-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Stage-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Shipment-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "ManagerDashboard-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "TaskMonitoring-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "Pickup-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "Stage-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "RTS-FB-US-S",
+    "RoleOrgId" : "FB-US-S"
+  }, {
+    "UserId" : "mgr@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "MDPickup-FB-BRAND2-US-S",
+    "RoleOrgId" : "FB-BRAND2-US-S"
+  }, {
+    "UserId" : "mgr@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "Shipment-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "TaskMonitoring-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "mgr@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "MDShipment-FB-BRAND2-CANADA-S",
+    "RoleOrgId" : "FB-BRAND2-CANADA-S"
+  }, {
+    "UserId" : "mgr@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "RCVMgr-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u1@FB-BRAND1-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Pickup-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u1@FB-BRAND1-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Stage-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u1@FB-BRAND1-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Shipment-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Pickup-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Stage-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-BRAND1-US-S",
+    "RoleId" : "Shipment-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u2@FB-US-S",
+    "OrganizationId" : "FB-BRAND2-US-S",
+    "RoleId" : "Pickup-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u3@FB-BRAND1-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Pickup-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u3@FB-BRAND1-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Sort-FB-BRAND1-CANADA-S",
+    "RoleOrgId" : "FB-BRAND1-CANADA-S"
+  }, {
+    "UserId" : "u3@FB-BRAND1-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Shipment-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u4@FB-CANADA-S",
+    "OrganizationId" : "FB-BRAND1-CANADA-S",
+    "RoleId" : "Shipment-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u4@FB-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  }, {
+    "UserId" : "u5@FB-BRAND2-CANADA-S",
+    "OrganizationId" : "FB-BRAND2-CANADA-S",
+    "RoleId" : "ReceivingInventory-Five-Below-S",
+    "RoleOrgId" : "Five-Below-S"
+  } ]
+}

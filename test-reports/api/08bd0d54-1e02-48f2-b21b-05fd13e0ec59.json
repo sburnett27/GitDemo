@@ -1,0 +1,46 @@
+{
+  "ItemCode" : [ {
+    "Type" : "UPC_Secondary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Secondary"
+    },
+    "Value" : "44444441001"
+  }, {
+    "Type" : "GTIN",
+    "CodeTypeId" : {
+      "CodeTypeId" : "GTIN"
+    },
+    "Value" : "66666661001"
+  }, {
+    "Type" : "UPC_Primary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Primary"
+    },
+    "Value" : "22222221002"
+  }, {
+    "Type" : "GTIN",
+    "CodeTypeId" : {
+      "CodeTypeId" : "GTIN"
+    },
+    "Value" : "66666661003"
+  }, {
+    "Type" : "GTIN",
+    "CodeTypeId" : {
+      "CodeTypeId" : "GTIN"
+    },
+    "Value" : "66666661004"
+  }, {
+    "Type" : "UPC_Primary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Primary"
+    },
+    "Value" : "22222221004"
+  }, {
+    "Type" : "UPC_Secondary",
+    "CodeTypeId" : {
+      "CodeTypeId" : "UPC_Secondary"
+    },
+    "Value" : "44444441005"
+  } ],
+  "ItemId" : "SFCNTWSH"
+}

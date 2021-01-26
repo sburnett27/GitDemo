@@ -1,0 +1,126 @@
+{
+  "SupplyEvent" : [ {
+    "SupplyDefinition" : {
+      "ParentReferenceDetailId" : "",
+      "SegmentId" : "",
+      "LocationId" : "STR1-11668",
+      "ReferenceTypeId" : "",
+      "ReferenceDetailId" : "",
+      "ItemId" : "Item1-11668",
+      "SupplyAttributes" : {
+        "InvAttribute5" : "",
+        "InvAttribute4" : "",
+        "CountryofOrigin" : "",
+        "InvAttribute3" : "",
+        "BatchNumber" : "",
+        "InventoryType" : "",
+        "ProductStatus" : "",
+        "InvAttribute2" : "",
+        "InvAttribute1" : ""
+      },
+      "SupplyData" : {
+        "UOM" : "unit",
+        "ETA" : "",
+        "Quantity" : "100",
+        "ErrorCodeId" : "",
+        "QuantityAdjustmentType" : "A"
+      },
+      "ParentReferenceId" : "",
+      "OriginLocationId" : "",
+      "ReferenceId" : "",
+      "SupplyType" : {
+        "TransferFromSupplyTypeId" : "",
+        "SupplyTypeId" : "On Hand Available",
+        "TransferFromDispositionId" : "",
+        "DispositionId" : "",
+        "TransferFromLockCodeId" : "",
+        "LockCodeId" : ""
+      },
+      "ParentReferenceTypeId" : ""
+    },
+    "TransactionTypeId" : "Adjustment",
+    "LastTransDate" : ""
+  }, {
+    "SupplyDefinition" : {
+      "ParentReferenceDetailId" : "",
+      "SegmentId" : "",
+      "LocationId" : "STR1-11668",
+      "ReferenceTypeId" : "",
+      "ReferenceDetailId" : "",
+      "ItemId" : "Item2-11668",
+      "SupplyAttributes" : {
+        "InvAttribute5" : "",
+        "InvAttribute4" : "",
+        "CountryofOrigin" : "",
+        "InvAttribute3" : "",
+        "BatchNumber" : "",
+        "InventoryType" : "",
+        "ProductStatus" : "",
+        "InvAttribute2" : "",
+        "InvAttribute1" : ""
+      },
+      "SupplyData" : {
+        "UOM" : "unit",
+        "ETA" : "",
+        "Quantity" : "50",
+        "ErrorCodeId" : "",
+        "QuantityAdjustmentType" : "A"
+      },
+      "ParentReferenceId" : "",
+      "OriginLocationId" : "",
+      "ReferenceId" : "",
+      "SupplyType" : {
+        "TransferFromSupplyTypeId" : "",
+        "SupplyTypeId" : "On Hand Available",
+        "TransferFromDispositionId" : "",
+        "DispositionId" : "",
+        "TransferFromLockCodeId" : "",
+        "LockCodeId" : ""
+      },
+      "ParentReferenceTypeId" : ""
+    },
+    "TransactionTypeId" : "Adjustment",
+    "LastTransDate" : ""
+  }, {
+    "SupplyDefinition" : {
+      "ParentReferenceDetailId" : "",
+      "SegmentId" : "",
+      "LocationId" : "STR1-11668",
+      "ReferenceTypeId" : "",
+      "ReferenceDetailId" : "",
+      "ItemId" : "Item3-11668",
+      "SupplyAttributes" : {
+        "InvAttribute5" : "",
+        "InvAttribute4" : "",
+        "CountryofOrigin" : "",
+        "InvAttribute3" : "",
+        "BatchNumber" : "",
+        "InventoryType" : "",
+        "ProductStatus" : "",
+        "InvAttribute2" : "",
+        "InvAttribute1" : ""
+      },
+      "SupplyData" : {
+        "UOM" : "unit",
+        "ETA" : "",
+        "Quantity" : "25",
+        "ErrorCodeId" : "",
+        "QuantityAdjustmentType" : "A"
+      },
+      "ParentReferenceId" : "",
+      "OriginLocationId" : "",
+      "ReferenceId" : "",
+      "SupplyType" : {
+        "TransferFromSupplyTypeId" : "",
+        "SupplyTypeId" : "On Hand Available",
+        "TransferFromDispositionId" : "",
+        "DispositionId" : "",
+        "TransferFromLockCodeId" : "",
+        "LockCodeId" : ""
+      },
+      "ParentReferenceTypeId" : ""
+    },
+    "TransactionTypeId" : "Adjustment",
+    "LastTransDate" : ""
+  } ]
+}

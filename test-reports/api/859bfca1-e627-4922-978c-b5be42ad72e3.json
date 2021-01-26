@@ -1,0 +1,111 @@
+{
+  "Data" : [ {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Ground",
+    "FacilityCode" : "STR1-FB-BRAND1-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Express",
+    "FacilityCode" : "STR1-FB-BRAND1-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "YA9539",
+    "UserKey" : "ManhUpsReg",
+    "CarrierCode" : "UPS Carrier",
+    "FacilityCode" : "STR1-FB-BRAND1-US-S",
+    "SecondaryAccountNumber" : "4CAAD2E069BF84E8",
+    "Password" : "UPSreg330"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Ground",
+    "FacilityCode" : "STR2-FB-BRAND1-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Express",
+    "FacilityCode" : "STR2-FB-BRAND1-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "YA9539",
+    "UserKey" : "ManhUpsReg",
+    "CarrierCode" : "UPS Carrier",
+    "FacilityCode" : "STR2-FB-BRAND1-US-S",
+    "SecondaryAccountNumber" : "4CAAD2E069BF84E8",
+    "Password" : "UPSreg330"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Ground",
+    "FacilityCode" : "STR3-FB-BRAND2-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Express",
+    "FacilityCode" : "STR3-FB-BRAND2-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "YA9539",
+    "UserKey" : "ManhUpsReg",
+    "CarrierCode" : "UPS Carrier",
+    "FacilityCode" : "STR3-FB-BRAND2-US-S",
+    "SecondaryAccountNumber" : "4CAAD2E069BF84E8",
+    "Password" : "UPSreg330"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "FedEx Express",
+    "FacilityCode" : "STR4-FB-BRAND2-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "UPS Carrier",
+    "FacilityCode" : "STR4-FB-BRAND2-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "UPSreg33b3tSw6TguxpRgKLKn7ofyJzay"
+  }, {
+    "OrgId" : "FB-BRAND1-US-S",
+    "ProvisioningProfile" : "FB-BRAND1-US-S",
+    "PrimaryAccountNumber" : "604337968",
+    "UserKey" : "CfCL3bCkuPdR3qiY",
+    "CarrierCode" : "UPS Ground",
+    "FacilityCode" : "STR4-FB-BRAND2-US-S",
+    "SecondaryAccountNumber" : "118616237",
+    "Password" : "UPSreg33b3tSw6TguxpRgKLKn7ofyJzay"
+  } ]
+}

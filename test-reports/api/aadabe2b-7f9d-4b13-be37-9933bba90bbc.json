@@ -1,0 +1,65 @@
+{
+  "Data" : [ {
+    "OrganizationName" : "FB-US-Test",
+    "UpdatedTimestamp" : "2021-01-15T15:31:52.413",
+    "Messages" : null,
+    "IsBaseImageProvider" : true,
+    "CreatedBy" : "systemadmin@system.com",
+    "CreatedTimestamp" : "2021-01-15T15:31:52.413",
+    "OrganizationAddress" : [ {
+      "UpdatedBy" : "systemadmin@system.com",
+      "UpdatedTimestamp" : "2021-01-15T15:31:52.414",
+      "CreatedBy" : "systemadmin@system.com",
+      "CreatedTimestamp" : "2021-01-15T15:31:52.414",
+      "Address" : {
+        "Email" : null,
+        "FirstName" : "Manhattan",
+        "State" : "GA",
+        "Phone" : null,
+        "Address2" : "",
+        "Address3" : "",
+        "PostalCode" : "30339-5665",
+        "Country" : "US",
+        "LastName" : "Rogers",
+        "Address1" : "2300 Windy Ridge Parkway",
+        "City" : "Atlanta",
+        "County" : null
+      },
+      "OrganizationAddressId" : "rogers-address-1",
+      "ParentOrganization" : {
+        "PK" : 6107247124138144004
+      },
+      "ContextId" : "a6defb7b-c9a2-4348-b829-9f7196c3ee19",
+      "Process" : null,
+      "PK" : "6107247124148158108",
+      "AddressType" : {
+        "AddressTypeId" : "HeadQuarters"
+      },
+      "Unique_Identifier" : "6107247124148158108__rogers-address-1"
+    } ],
+    "OrganizationContact" : [ ],
+    "IsManagedOrganization" : false,
+    "ImageUrl" : null,
+    "Process" : null,
+    "OrganizationId" : "FB-US-S",
+    "Role" : [ ],
+    "UpdatedBy" : "systemadmin@system.com",
+    "ContextId" : "a6defb7b-c9a2-4348-b829-9f7196c3ee19",
+    "WebStoreUrl" : null,
+    "PK" : "6107247124138144004",
+    "Unique_Identifier" : "6107247124138144004__FB-US-S",
+    "OrganizationHierarchy" : [ {
+      "ChildOrganizationId" : "FB-BRAND1-US-S",
+      "Organization" : {
+        "Criteria" : "OrganizationId == 'FB-US-S'"
+      },
+      "ParentOrganizationId" : "FB-US-S"
+    }, {
+      "ChildOrganizationId" : "FB-BRAND2-US-S",
+      "Organization" : {
+        "Criteria" : "OrganizationId == 'FB-US-S'"
+      },
+      "ParentOrganizationId" : "FB-US-S"
+    } ]
+  } ]
+}

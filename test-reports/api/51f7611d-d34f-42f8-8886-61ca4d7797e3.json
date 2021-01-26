@@ -1,0 +1,32 @@
+{
+  "Data" : [ {
+    "IsDefault" : false,
+    "ReleaseType" : {
+      "ReleaseTypeId" : "Allocation"
+    },
+    "ExpiryDate" : "2028-05-31T00:00:00",
+    "Description" : "Release Configuration 3846",
+    "GroupBy" : null,
+    "RuleCondition" : "",
+    "Rank" : "3846",
+    "DeliverTogetherId" : {
+      "DeliverTogetherId" : ""
+    },
+    "ConfigName" : "ReleaseConfigForOmniOrder 11668",
+    "MinimizeShipment" : false,
+    "ReleaseRuleCondition" : [ {
+      "RuleExpression" : "",
+      "RuleConditionId" : "RRC_3846",
+      "RuleCondition" : "(allocation.parentOrderLine.parentOrder.customerId = \"Cus11668\") and allocation.parentOrderLine.parentOrder.isConfirmed = true",
+      "ReleaseConfig" : {
+        "Criteria" : "ConfigName=='ReleaseConfigForOmniOrder 11668'"
+      },
+      "RuleName" : "SSF1_3846"
+    } ],
+    "TemplateName" : null,
+    "DemandType" : {
+      "DemandTypeId" : "Allocation"
+    },
+    "EffectiveDate" : "2018-05-04T00:00:00"
+  } ]
+}

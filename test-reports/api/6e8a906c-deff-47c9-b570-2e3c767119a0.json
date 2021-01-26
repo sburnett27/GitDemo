@@ -1,0 +1,7 @@
+{
+  "Data" : [ {
+    "RuleConditionId" : "Rule11668",
+    "RuleCondition" : "order.customerId=\"Cus11668\"",
+    "RuleType" : "Order"
+  } ]
+}
